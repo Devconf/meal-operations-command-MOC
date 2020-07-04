@@ -2,6 +2,7 @@ import os
 import json
 import random
 import calendar
+import add_nut
 
 f = open('menu.json', 'r', encoding='utf-8')
 menu_json = json.load(f)
@@ -67,7 +68,7 @@ def gen(path, month, year):
     gen_plan = {}
     for i, plan in enumerate(zip(breakfasts, lunchs, dinners, etcs)):
         breakfast, lunch, dinner, etc = plan
-        gen_plan[f'{i+1}일'] = {
+        gen_plan[f'{i+1}'] = {
             'breakfast': breakfast,
             'lunch': lunch,
             'dinner': dinner,
@@ -95,7 +96,7 @@ def gen_by_month(path, month, year):
     gen_plan = {}
     for i, plan in enumerate(zip(breakfasts, lunchs, dinners, etcs)):
         breakfast, lunch, dinner, etc = plan
-        gen_plan[f'{i+1}일'] = {
+        gen_plan[f'{i+1}'] = {
             'breakfast': breakfast,
             'lunch': lunch,
             'dinner': dinner,
@@ -103,9 +104,16 @@ def gen_by_month(path, month, year):
     }
     return gen_plan
 
+
 if __name__ == "__main__":
     path = './newplans/'
-    month, year = 7, 2020
-    plan = gen_by_month(path, month, year)
-    with open(f'{year}년{month}월_식단.json', 'w', encoding='utf-8') as f:
-        json.dump(plan, f, ensure_ascii=False, indent=2)
+    year = 2020
+    for month in range(1,13):
+        plan= gen_by_month(path, month, year)
+        with open(f'./diet_gen/{year}년{month}월_식단.json', 'w', encoding='utf-8') as f:
+            json.dump(plan, f, ensure_ascii=False, indent=2)
+
+    annual_plan=add_nut.add_nutrient(year,menu_json)
+    with open(f'./annual_diet/{year}년_식단.json', 'w', encoding='utf-8') as f:
+            json.dump(annual_plan, f, ensure_ascii=False, indent=2)
+    
