@@ -10,7 +10,7 @@ class Menu :
         self.fat = 0.0
         self.protein = 0.0
         self.carbohydrate = 0.0
-        self.suger=0.0
+        self.sugar=0.0
         self.sodium=0.0
         self.cholesterol=0.0
         self.allergy = []
@@ -75,7 +75,7 @@ def calc_nutrient(menuInfo, csv_nut_db):
                 if info[9] != '-':
                     menu.carbohydrate = float(info[9]) * menu.cal / float(cal)
                 if info[10] != '-':
-                    menu.suger = float(info[10]) * menu.cal / float(cal)
+                    menu.sugar = float(info[10]) * menu.cal / float(cal)
                 if info[11] != '-':
                     menu.sodium = float(info[11]) * menu.cal / float(cal)
                 if info[12] != '-':
@@ -86,7 +86,7 @@ def calc_nutrient(menuInfo, csv_nut_db):
                 menu.carbohydrate = 0
                 menu.protein = 0
                 menu.fat = 0
-                menu.suger=0
+                menu.sugar=0
                 menu.sodium=0
                 menu.cholesterol=0
                 break
@@ -100,7 +100,7 @@ def save_as_json(menuInfo):
             "fat": menu.fat,
             "protein": menu.protein,
             "carbohydrate": menu.carbohydrate,
-            "suger": menu.suger,
+            "sugar": menu.sugar,
             "sodium": menu.sodium,
             "cholesterol" : menu.cholesterol,
             "category": menu.category,
