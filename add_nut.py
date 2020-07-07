@@ -14,7 +14,7 @@ def add_nutrient(year,menu_json):
             month_diet["meals"]=[]
             for key,val in month_meal.items():
                 meal={}
-                meal["day"]=key
+                meal["day"]=int(key)
                 for k,v in val.items():
                     meal[k]=[]
                     for menu in v: 
