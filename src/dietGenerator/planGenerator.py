@@ -174,9 +174,13 @@ class PlanGenerator:
         menu_info = list()
         for food in menu:
             food_info = self.food_infos[food]
-            # 추가 정보가 필요하다면, 여기서 추가 가능
+            # raw data 에 대한 후처리 가능 !
+            # 단위 조정, 추가 정보 삽입 등
+            for nutrient in ['sodium', 'cholesterol']:
+                food_info[nutrient] /= 1000 # mg -> g
             food_info['title'] = food # 이름을 추가해줌
-            # rate 추가 가능 !
+
+            # 후처리 한 data 를 저장
             menu_info.append(food_info)
         return menu_info
 
