@@ -6,22 +6,25 @@ add_nut 으로 연간 영양소 계획 -> annual_diet 에 저장
 import json
 
 # project packages
-import config
-from dietGenerator import mil_gen
-from dietGenerator import add_nut
+from dietGenerator.planGenerator import PlanGenerator
+
+def save_annual_diet(result_path, year, annual_plan):
+    with open(
+        result_path + f'annual_diet/{year}년_식단.json',
+        'w', encoding='utf-8') as annual_meal:
+        json.dump(annual_plan, annual_meal, ensure_ascii=False, indent=2)
+
+def make_newplans():
+    newplan_generator = NewPlanGenerator()
+    newplan_generator.generate_new_plan()
 
 if __name__ == "__main__":
-    year = config.year
-    path = config.newplans_path
-    result_dst = config.result_path
+    year = 2020
+    result_path = '../result/'
+    plan_generator = PlanGenerator()
+    annual_plan = plan_generator.generate_annual_plan(year)  # 연간 계획 생성
+    save_annual_diet(result_path, year, annual_plan) # json 으로 저장
 
-    for month in range(1,13):
-        # 1월 부터 12월 까지 식단 생성
-        plan= mil_gen.gen_by_month(path, month, year)
-        with open(result_dst + f'diet_gen/{year}년{month}월_식단.json', 'w', encoding='utf-8') as monthly_meal:
-            json.dump(plan, monthly_meal, ensure_ascii=False, indent=2)
-
-    annual_plan=add_nut.add_nutrient(year, mil_gen.menu_json)
-    with open(result_dst + f'annual_diet/{year}년_식단.json', 'w', encoding='utf-8') as annual_meal:
-        # 연간 계획 생성
-        json.dump(annual_plan, annual_meal, ensure_ascii=False, indent=2)
+    food = '핫도그빵'
+    print(food)
+    print(plan_generator.curator.find_similar_foods(food))

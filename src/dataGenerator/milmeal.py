@@ -111,10 +111,10 @@ def save_as_json(menuInfo):
         json.dump(dic, f, ensure_ascii=False, indent=2)
 
 def category_selector(name):
-        cat_table = ['밥','국','메인','서브','버거','김치','면','예외']
-        for i in cat_table:
-            if i[0] == name[0]:
-                return i
+    cat_table = ['밥','국','메인','서브','버거','김치','면','예외']
+    for i in cat_table:
+        if i[0] == name[0]:
+            return i
 
 def fill_category(menuInfo,category_infos):
     category_infos[0][0] = category_infos[0][0].replace('\ufeff', '')
