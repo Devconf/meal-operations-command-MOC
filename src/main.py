@@ -6,12 +6,11 @@ add_nut 으로 연간 영양소 계획 -> annual_diet 에 저장
 import json
 
 # project packages
-from dietGenerator.planGenerator import PlanGenerator
+from dietGenerator.plan_generator import PlanGenerator # pylint: disable=import-error
+from dataGenerator.newplanGenerator import NewPlanGenerator # pylint: disable=import-error
 
 def save_annual_diet(result_path, year, annual_plan):
-    with open(
-        result_path + f'annual_diet/{year}년_식단.json',
-        'w', encoding='utf-8') as annual_meal:
+    with open(result_path + f'annual_diet/{year}년_식단.json', 'w', encoding='utf-8') as annual_meal:
         json.dump(annual_plan, annual_meal, ensure_ascii=False, indent=2)
 
 def make_newplans():
@@ -19,12 +18,12 @@ def make_newplans():
     newplan_generator.generate_new_plan()
 
 if __name__ == "__main__":
-    year = 2020
-    result_path = '../result/'
+    YEAR = 2020
+    RESULT_PATH = '../result/'
     plan_generator = PlanGenerator()
-    annual_plan = plan_generator.generate_annual_plan(year)  # 연간 계획 생성
-    save_annual_diet(result_path, year, annual_plan) # json 으로 저장
+    ANNUAL_PLAN = plan_generator.generate_annual_plan(YEAR)  # 연간 계획 생성
+    save_annual_diet(RESULT_PATH, YEAR, ANNUAL_PLAN) # json 으로 저장
 
-    food = '핫도그빵'
-    print(food)
-    print(plan_generator.curator.find_similar_foods(food))
+    FOOD = '핫도그빵'
+    print(FOOD)
+    print(plan_generator.curator.find_similar_foods(FOOD))

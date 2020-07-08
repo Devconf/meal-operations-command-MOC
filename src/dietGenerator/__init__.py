@@ -1,1 +1,1 @@
-__all__ = ['menuCurator', 'planGenerator']
+__all__ = ['menu_curator', 'plan_generator']

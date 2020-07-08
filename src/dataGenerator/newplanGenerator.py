@@ -51,16 +51,16 @@ class NewPlanGenerator:
             try:
                 # date 정보를 가지고 있는 경우
                 date = int(daily_plan["dates"])
-            except:
-                has_data = list(menu[time] != "" for time in self.times)
-                if any(has_data) and date == "" and is_date == True:
-                    menus.append(menu)
+            except ValueError:
+                has_data = list(daily_plan[time] != "" for time in self.times)
+                if any(has_data) and (not date) and is_date:
+                    menus.append(daily_plan)
             else:
                 if menus:
                     date = menus[0]["dates"]
                     validate_plan[date] = menus
                     menus = []
-                menus.append(menu)
+                menus.append(daily_plan)
                 is_date = True
         return validate_plan
 

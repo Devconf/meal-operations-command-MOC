@@ -34,12 +34,9 @@ class MenuCurator:
         food_vectors = dict()
         for food, food_info in self.food_infos.items():
             temp_food_vector = list(food_info.values())[3:8] # nutrients
-            """
-            추가하고 싶은 벡터 요소를
-            temp_food_vector.append( 요소 ) 로 추가
-            """
-            # tuple 로 변경 불가능하게
-            food_vectors[food] = tuple(temp_food_vector)
+            # 추가하고 싶은 벡터 요소를
+            # temp_food_vector.append( 요소 ) 로 추가
+            food_vectors[food] = tuple(temp_food_vector) # immutable
         return food_vectors
 
     def find_similar_foods(self, target_food, baseline=0.999):
@@ -70,7 +67,7 @@ class MenuCurator:
         vector_a = self.food_vectors[food_a]
         vector_b = self.food_vectors[food_b]
         return self.cos_similarity(vector_a, vector_b)
-    
+
     def cos_similarity(self, vector_a, vector_b):
         """
         @parm:

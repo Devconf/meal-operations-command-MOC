@@ -5,7 +5,7 @@ annual_plan: list[month_info], month_info 의 리스트
     month_info: dict, {year: int, month: int, meals: list[day_info]}
         day_info: dict, {day: int, time: list[food_info]}
             (time:= breakfast, lunch, dinner, etc)
-            food_info: dict, {subname: str, nutrient: float, category: str, allergy: list[int], 
+            food_info: dict, {subname: str, nutrient: float, category: str, allergy: list[int],
                 title: str, } # 추가 정보
                 (nutrient:= cal, fat, protein, carbohydrate, sugar, sodium, cholesterol)
 """
@@ -13,7 +13,7 @@ import os
 import json
 import random
 import calendar
-from dietGenerator.menuCurator import MenuCurator
+from dietGenerator.menu_curator import MenuCurator # pylint: disable=import-error
 
 class PlanGenerator:
     """
@@ -104,7 +104,7 @@ class PlanGenerator:
                                     -> (cal, fat, protein, carbohydrate, sugar, sodium, cholesterol)
                                     category: str,
                                     allergy: list[int],
-                                    
+
                                     + 추가 정보
                                     title: str,
                                 }
@@ -128,7 +128,7 @@ class PlanGenerator:
             monthly_plan: dict, {year:int, month:int, meals:monthly_diet}
                 년도, 월, 그 달의 식단 계획
                 monthly_diet: list[daily_plan], 날짜 별 그날의 식단 리스트
-                    daily_plan: dict, {day:int, time:menu_info} 
+                    daily_plan: dict, {day:int, time:menu_info}
                         날짜와 그날의 시간별 메뉴 정보
                         time:= breakfast, lunch, dinner, etc
                         menu_info: list[food_info], 해당 시간의 음식 정보들의 리스트
@@ -149,7 +149,7 @@ class PlanGenerator:
                 plan = menu_list + self.raw_plan_data[0][time]
             else: # 날짜 수를 충족할 경우, 원래 raw_menu_list 만 반환
                 plan = menu_list + list()
-            
+
             # 가져온 data 를 섞고, slice 후, monthly plan 에 넣어줌
             random.shuffle(plan) # 순서를 무작위로 섞어줌
             for day, menu in enumerate(plan[:days]): # days 만큼 slice
@@ -196,10 +196,9 @@ class PlanGenerator:
         for food in menu:
             try:
                 subname = self.food_infos[food]['subname']
-            except: # subname 없음
+            except KeyError: # subname 없음
                 return False
             else:
                 if subname == '#':
                     return False
-                else: # validate 함
-                    return True
+                return True #validate 함
