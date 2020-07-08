@@ -21,6 +21,8 @@ def add_nutrient(year,menu_json):
                         for m_k,m_v in menu_json.items():
                             if menu ==m_k:
                                 m_v["title"]=menu
+                                for nutrient in ['sodium', 'cholesterol']:
+                                    m_v[nutrient] = m_v[nutrient]/1000
                                 meal[k].append(m_v)
                                 break
   
