@@ -86,52 +86,36 @@ class PlanGenerator:
         @parm:
             year: int, 년
         @return:
-            annual_plan: list[month_info], month_info 의 리스트
-                month_info: dict, 해당 월의 정보
+            annual_plan: list[monthly_plan], monthly_plan 의 리스트
+                monthly_plan: dict, 해당 월의 정보
                 {
                     year: int, 년
                     month: int, 월
                     meals: list[day_info], day_info 의 리스트
-                }
-                    day_info: dict, 해당 일의 정보
-                    {
-                        day: int, 일
-                        time: list[food_info], 해당 시간에 나오는 음식의 정보 (food_info) 리스트
-                        (time:= breakfast, lunch, dinner, etc)
-                    }
-                        food_info: dict, 해당 음식의 정보
+                        day_info: dict, 해당 일의 정보
                         {
-                            subname: str,
-                            nutrient: float,
-                            -> (cal, fat, protein, carbohydrate, sugar, sodium, cholesterol)
-                            category: str,
-                            allergy: list[int],
-                            
-                            + 추가 정보
-                            title: str,
+                            day: int, 일
+                            time: list[food_info], 해당 시간에 나오는 음식의 정보 (food_info) 리스트
+                                time:= breakfast, lunch, dinner, etc
+                                food_info: dict, 해당 음식의 정보
+                                {
+                                    subname: str,
+                                    nutrient: float,
+                                    -> (cal, fat, protein, carbohydrate, sugar, sodium, cholesterol)
+                                    category: str,
+                                    allergy: list[int],
+                                    
+                                    + 추가 정보
+                                    title: str,
+                                }
                         }
+                }
         """
         annual_plan = list()
         for month in range(1, 13):
             # 1월 부터 12월까지 정보를 차례로 생성함
-            month_info = dict()
-            month_info['year'] = year
-            month_info['month'] = month
-            month_info['meals'] = list()
-
-            # montly_plan 으로 생성한 식단을 info 로 저장
             monthly_plan = self.generate_monthly_plan(month, year)
-            for day, daily_plan in monthly_plan.items():
-                # 매일의 식단을 info로 바꿔서 저장
-                day_info = dict()
-                day_info['day'] = day
-                for time, menu in daily_plan.items():
-                    # time:= breakfast, lunch, dinner, etc 순서
-                    day_info[time] = self.convert_menu2info(menu)
-
-                # 날짜 수만큼 생성한 info 를 meals 에 넣음
-                month_info['meals'].append(day_info)
-            annual_plan.append(month_info) # 월 별 정보
+            annual_plan.append(monthly_plan) # 월 별 계획
         return annual_plan
 
     def generate_monthly_plan(self, month, year):
@@ -141,17 +125,22 @@ class PlanGenerator:
             month: int, 월
             year: int, 년
         @return:
-            monthly_plan: dict, 날짜 별 그날의 식단 {day:daily_plan}
-                daily_plan: dict, time 별 메뉴 {time:menu}
-                    menu: list[str], 해당 시간의 음식들의 리스트 [food]
-                        food: str, 음식 이름
-            -> 길이 = year 년 month 의 날짜 수
+            monthly_plan: dict, {year:int, month:int, meals:monthly_diet}
+                년도, 월, 그 달의 식단 계획
+                monthly_diet: list[daily_plan], 날짜 별 그날의 식단 리스트
+                    daily_plan: dict, {day:int, time:menu_info} 
+                        날짜와 그날의 시간별 메뉴 정보
+                        time:= breakfast, lunch, dinner, etc
+                        menu_info: list[food_info], 해당 시간의 음식 정보들의 리스트
+                            food_info: dict, 음식 정보
+            -> meals의 길이 = year 년 month 의 날짜 수
         """
         # 해당 월의 날짜 수 계산 후, initialize
-        monthly_plan = dict()
         days = calendar.monthrange(year, month)[1]
-        for day in range(days):
-            monthly_plan[day+1] = dict() # daily_plan
+        monthly_plan = dict()
+        monthly_plan['year'] = year
+        monthly_plan['month'] = month
+        monthly_diet = list()
 
         raw_plan = self.raw_plan_data[month] # dict {time:menu list}
         for time, menu_list in raw_plan.items():
@@ -164,17 +153,22 @@ class PlanGenerator:
             # 가져온 data 를 섞고, slice 후, monthly plan 에 넣어줌
             random.shuffle(plan) # 순서를 무작위로 섞어줌
             for day, menu in enumerate(plan[:days]): # days 만큼 slice
-                daily_plan = monthly_plan[day+1] # 시간대 별 menu dict
-                daily_plan[time] = menu # 음식 이름의 list
+                daily_plan = dict() # 해당 날의 계획
+                daily_plan['day'] = day
+                daily_plan[time] = self.convert_menu2info(menu) # menu_info
+                monthly_diet.append(daily_plan) # 생성한 하루 식단 계획을 저장
+
+        # 생성된 한달의 계획을 반환
+        monthly_plan['meals'] = monthly_diet
         return monthly_plan
 
     def convert_menu2info(self, menu):
         """
         @parm
-            menu: list[str], food 의 리스트
+            menu: list[food], food 의 리스트
                 food: str, 음식 이름
         @return
-            menu_info: list[dict], food_info 의 리스트
+            menu_info: list[food_info], food_info 의 리스트
                 food_info: dict, 영양 정보
         """
         menu_info = list()
@@ -189,7 +183,7 @@ class PlanGenerator:
     def is_validate(self, menu):
         """
         @parm:
-            menu: list of str, 음식 이름의 리스트
+            menu: list[str], 음식 이름의 리스트
         @return:
             validate: bool, 유효할 경우 True
         """
