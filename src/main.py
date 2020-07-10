@@ -10,8 +10,8 @@ from dietGenerator.plan_generator import PlanGenerator # pylint: disable=import-
 from dataGenerator.newplanGenerator import NewPlanGenerator # pylint: disable=import-error
 
 def save_annual_diet(result_path, year, annual_plan):
-    with open(result_path + f'annual_diet/{year}년_식단.json', 'w', encoding='utf-8') as annual_meal:
-        json.dump(annual_plan, annual_meal, ensure_ascii=False, indent=2)
+    with open(result_path + f'annual_diet/{year}년_식단.json', 'w', encoding='utf-8') as annual_json:
+        json.dump(annual_plan, annual_json, ensure_ascii=False, indent=2)
 
 def make_newplans():
     newplan_generator = NewPlanGenerator()
