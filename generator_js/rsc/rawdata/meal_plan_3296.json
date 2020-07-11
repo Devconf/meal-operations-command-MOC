@@ -1,0 +1,869 @@
+{"DESCRIPTION":{"dates":"날짜","brst":"조식","brst_cal":"조식열량","lunc":"중식","lunc_cal":"중식열량","dinr":"석식","dinr_cal":"석식열량","adspcfd":"증특식","adspcfd_cal":"증특식열량","sum_cal":"열량합계"}
+, "DATA":[
+{"dates":"20200608","brst":"밥","brst_cal":"363","lunc":"흑미밥","lunc_cal":"389.25","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개살미역국 (5)","brst_cal":"22","lunc":"두부김치국 (5)","lunc_cal":"49.21","dinr":"호박된장찌개 (5)(6)","dinr_cal":"50.76","adspcfd":"바나나","adspcfd_cal":"67.2","sum_cal":""}
+,{"dates":"","brst":"표고버섯돼지고기볶음 (5)(6)(10)","brst_cal":"395.91","lunc":"닭강정 (1)(6)(15)","lunc_cal":"689.4","dinr":"쇠고기버섯볶음 (5)(6)(16)","dinr_cal":"98.48","adspcfd":"오렌지 주스(200㎖/팩)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"깻잎찜 (5)(6)","lunc_cal":"48.27","dinr":"오이양파장아찌 (5)(6)","dinr_cal":"35.93","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"810.41","lunc":"","lunc_cal":"1,200.38","dinr":"","dinr_cal":"572.42","adspcfd":"","adspcfd_cal":"285.2","sum_cal":"2,868.41"}
+,{"dates":"20200609","brst":"밥","brst_cal":"363","lunc":"비빔밥 (5)(6)","lunc_cal":"585.87","dinr":"찰보리밥","dinr_cal":"385.12","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"순두부찌개 (1)(5)(6)(10)","brst_cal":"181.96","lunc":"버섯된장찌개 (5)(6)","lunc_cal":"56.76","dinr":"돼지고기김치찌개 (6)(10)","dinr_cal":"125.99","adspcfd":"컵과일(대추방울토마토)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"쇠고기감자조림 (5)(6)(16)","brst_cal":"107.93","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"오삼불고기 (5)(6)(10)(17)","dinr_cal":"349.5","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"시금치무침 (5)(6)","brst_cal":"32.26","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"조기튀김 (6)","dinr_cal":"391.06","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"","lunc_cal":"","dinr":"오이소박이","dinr_cal":"22.2","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"709.4","lunc":"","lunc_cal":"792.52","dinr":"","dinr_cal":"1,273.87","adspcfd":"","adspcfd_cal":"122","sum_cal":"2,897.79"}
+,{"dates":"20200610","brst":"밥","brst_cal":"363","lunc":"잡곡밥","lunc_cal":"363.83","dinr":"마파두부덮밥 (5)(6)(10)","dinr_cal":"687.43","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기호박찌개 (6)(16)","brst_cal":"69.32","lunc":"감자된장국 (5)(6)","lunc_cal":"72.8","dinr":"쇠고기미역국 (5)(16)","dinr_cal":"58.63","adspcfd":"아이스크림 콘,완제품 (2)","adspcfd_cal":"270","sum_cal":""}
+,{"dates":"","brst":"두부김치 (5)(6)(10)","brst_cal":"280.52","lunc":"쇠고기갈비찜 (5)(6)(16)","lunc_cal":"635.95","dinr":"만두튀김 (1)(5)(6)(10)","dinr_cal":"710.82","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"무생채","lunc_cal":"38.54","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"736.54","lunc":"","lunc_cal":"1,135.37","dinr":"","dinr_cal":"1,481.13","adspcfd":"","adspcfd_cal":"392","sum_cal":"3,745.04"}
+,{"dates":"20200611","brst":"밥","brst_cal":"363","lunc":"찰보리밥","lunc_cal":"385.12","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"순두부찌개 (1)(5)(6)(10)","brst_cal":"181.96","lunc":"건새우아욱된장국 (5)(6)","lunc_cal":"41.83","dinr":"쇠고기무국 (5)(16)","dinr_cal":"60.38","adspcfd":"탄산음료","adspcfd_cal":"117.5","sum_cal":""}
+,{"dates":"","brst":"감자조림 (5)(6)","brst_cal":"88.17","lunc":"돼지불고기 (5)(6)(10)","lunc_cal":"536.22","dinr":"오징어튀김 (1)(6)","dinr_cal":"349.11","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"콩나물무침 (5)","brst_cal":"36","lunc":"가지무침 (5)(6)","lunc_cal":"37.91","dinr":"계란장조림 (1)(5)(6)","dinr_cal":"169.54","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"693.38","lunc":"","lunc_cal":"1,019.53","dinr":"","dinr_cal":"966.28","adspcfd":"","adspcfd_cal":"239.5","sum_cal":"2,918.69"}
+,{"dates":"20200612","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"북어채국 (1)(5)","brst_cal":"88.75","lunc":"쇠고기호박찌개 (6)(16)","lunc_cal":"69.32","dinr":"콩나물국 (5)","dinr_cal":"25.28","adspcfd":"사과 주스(200㎖/팩)","adspcfd_cal":"93","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치볶음 (10)","brst_cal":"207.33","lunc":"고등어김치조림 (5)(6)(7)","lunc_cal":"198.41","dinr":"양념통닭 (1)(6)(15)","dinr_cal":"806.97","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"애호박나물 (9)","brst_cal":"52.69","lunc":"두부양념장 (5)(6)","lunc_cal":"96.12","dinr":"감자조림 (5)(6)","dinr_cal":"88.17","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"730.22","lunc":"","lunc_cal":"770.43","dinr":"","dinr_cal":"1,307.67","adspcfd":"","adspcfd_cal":"215","sum_cal":"3,023.32"}
+,{"dates":"20200613","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"밥","dinr_cal":"363","adspcfd":"과일푸딩","adspcfd_cal":"126","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.63","lunc":"감자양파찌개 (5)(6)(16)","lunc_cal":"86.78","dinr":"조개국 (1)","dinr_cal":"94.96","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"97.27","lunc":"새송이버섯야채볶음 (5)(6)(16)","lunc_cal":"101.31","dinr":"고추잡채 (5)(6)(10)","dinr_cal":"412.74","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"낙지젓","brst_cal":"12.95","lunc":"시금치무침 (5)(6)","lunc_cal":"32.26","dinr":"도라지오이무침 (6)(17)","dinr_cal":"69.92","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"550.3","lunc":"","lunc_cal":"633.01","dinr":"","dinr_cal":"964.87","adspcfd":"","adspcfd_cal":"370","sum_cal":"2,518.18"}
+,{"dates":"20200614","brst":"밥","brst_cal":"363","lunc":"찰보리밥","lunc_cal":"385.12","dinr":"제육덮밥 (2)(5)(6)(10)(17)","dinr_cal":"792.14","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기육개장 (1)(5)(6)(16)","brst_cal":"122.32","lunc":"감자된장국 (5)(6)","lunc_cal":"72.8","dinr":"우엉조림 (5)(6)(16)","dinr_cal":"110.69","adspcfd":"식혜","adspcfd_cal":"82","sum_cal":""}
+,{"dates":"","brst":"꽈리고추멸치볶음 (5)(6)","brst_cal":"124.94","lunc":"닭갈비 (5)(6)(15)","lunc_cal":"305.24","dinr":"단무지무침","dinr_cal":"11.16","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"두부조림 (5)(6)","brst_cal":"129.17","lunc":"오이양파장아찌 (5)(6)","lunc_cal":"35.93","dinr":"총각김치","dinr_cal":"18.45","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"763.68","lunc":"","lunc_cal":"823.34","dinr":"","dinr_cal":"932.44","adspcfd":"","adspcfd_cal":"204","sum_cal":"2,723.46"}
+,{"dates":"20200615","brst":"밥","brst_cal":"363","lunc":"잡곡밥","lunc_cal":"363.83","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개살미역국 (5)","brst_cal":"22","lunc":"쇠고기무국 (5)(16)","lunc_cal":"60.38","dinr":"호박된장찌개 (5)(6)","dinr_cal":"50.76","adspcfd":"팥빙수","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"햄게맛살볶음 (5)(6)","brst_cal":"95.76","lunc":"오징어채볶음 (1)(5)(6)(17)","lunc_cal":"165.36","dinr":"오징어볶음 (17)","dinr_cal":"146.15","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"닭강정 (1)(6)(15)","lunc_cal":"689.4","dinr":"감자조림 (5)(6)","dinr_cal":"88.17","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"510.26","lunc":"","lunc_cal":"1,303.22","dinr":"","dinr_cal":"672.33","adspcfd":"","adspcfd_cal":"302","sum_cal":"2,787.81"}
+,{"dates":"20200616","brst":"밥","brst_cal":"363","lunc":"비빔밥 (5)(6)","lunc_cal":"585.87","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"시금치된장국 (5)(6)","brst_cal":"43.35","lunc":"쇠고기미역국 (5)(16)","lunc_cal":"58.63","dinr":"조개국 (1)","dinr_cal":"94.96","adspcfd":"유산균 발효 음료 (2)","adspcfd_cal":"56","sum_cal":""}
+,{"dates":"","brst":"쇠고기버섯볶음 (5)(6)(16)","brst_cal":"98.48","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"한우불고기 (5)(6)(16)","dinr_cal":"145.46","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"김자반","brst_cal":"43","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"콩나물무침 (5)","dinr_cal":"36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"566.28","lunc":"","lunc_cal":"794.39","dinr":"","dinr_cal":"688.8","adspcfd":"","adspcfd_cal":"178","sum_cal":"2,227.47"}
+,{"dates":"20200617","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"잡곡밥","dinr_cal":"363.83","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"된장국(일품용) (5)(6)","brst_cal":"61.52","lunc":"두부고추장찌개 (5)(6)(16)","lunc_cal":"90.69","dinr":"쇠고기육개장 (1)(5)(6)(16)","dinr_cal":"122.32","adspcfd":"방울토마토 (12)","adspcfd_cal":"22.27","sum_cal":""}
+,{"dates":"","brst":"생선묵꽈리고추볶음 (5)(6)","brst_cal":"106.88","lunc":"오징어젓무침 (17)","lunc_cal":"56.35","dinr":"감자채볶음","dinr_cal":"67.77","adspcfd":"감귤 주스(340㎖/ 페트)","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"치킨샐러드 (1)(15)","lunc_cal":"178.1","dinr":"명태순살강정 (5)(6)","dinr_cal":"425.37","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"파김치","lunc_cal":"23.6","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"560.9","lunc":"","lunc_cal":"711.74","dinr":"","dinr_cal":"1,003.54","adspcfd":"","adspcfd_cal":"324.27","sum_cal":"2,600.45"}
+,{"dates":"20200618","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"감자양파찌개 (5)(6)(16)","brst_cal":"86.78","lunc":"시금치된장국 (5)(6)","lunc_cal":"43.35","dinr":"순두부해물찌개 (1)(5)(6)(17)(18)","dinr_cal":"146.11","adspcfd":"사과 주스(200㎖/팩)","adspcfd_cal":"93","sum_cal":""}
+,{"dates":"","brst":"쇠고기팽이버섯떡볶음 (5)(6)(12)(16)","brst_cal":"92","lunc":"돼지고기김치볶음 (10)","lunc_cal":"207.33","dinr":"돼지갈비김치찜 (5)(6)(10)","dinr_cal":"416.62","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"무생채","brst_cal":"38.54","lunc":"고등어카레튀김 (6)","lunc_cal":"281.06","dinr":"오이고추장무침 (5)(6)","dinr_cal":"47.79","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"총각김치","dinr_cal":"18.45","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"604.57","lunc":"","lunc_cal":"913.19","dinr":"","dinr_cal":"1,017.10","adspcfd":"","adspcfd_cal":"215","sum_cal":"2,749.86"}
+,{"dates":"20200619","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.63","lunc":"전복삼계탕 (2)(15)(18)","lunc_cal":"787.17","dinr":"순두부찌개 (1)(5)(6)(10)","dinr_cal":"181.96","adspcfd":"수박(상품)","adspcfd_cal":"88.32","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"모듬야채 (5)(6)","lunc_cal":"52.82","dinr":"쇠고기파프리카볶음 (5)(6)(12)(16)","dinr_cal":"199.97","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"순두부계란찜 (1)(5)(9)","brst_cal":"89.28","lunc":"콩나물매운무침 (5)","lunc_cal":"41.56","dinr":"야채튀김 (1)(6)(12)","dinr_cal":"398.1","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"540.41","lunc":"","lunc_cal":"1,288.13","dinr":"","dinr_cal":"1,167.28","adspcfd":"","adspcfd_cal":"210.32","sum_cal":"3,206.14"}
+,{"dates":"20200620","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"현미밥","dinr_cal":"388.41","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"북어채국 (1)(5)","brst_cal":"88.75","lunc":"돼지고기김치찌개 (6)(10)","lunc_cal":"125.99","dinr":"팽이버섯국 (5)(6)","dinr_cal":"46.12","adspcfd":"오렌지 주스(200㎖/팩)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"두부김치 (5)(6)(10)","brst_cal":"280.52","lunc":"쇠고기감자조림 (5)(6)(16)","lunc_cal":"107.93","dinr":"닭매운찜(콩나물) (5)(6)(15)","dinr_cal":"290.37","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"시금치무침 (5)(6)","brst_cal":"32.26","lunc":"도라지오이무침 (6)(17)","lunc_cal":"69.92","dinr":"삼치순살조림 (5)(6)","dinr_cal":"152.91","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"782.98","lunc":"","lunc_cal":"691.09","dinr":"","dinr_cal":"902.06","adspcfd":"","adspcfd_cal":"218","sum_cal":"2,594.13"}
+,{"dates":"20200621","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"60.38","lunc":"닭고기육개장 (1)(5)(15)","lunc_cal":"231.84","dinr":"소시지찌개 (5)(6)(10)","dinr_cal":"181.54","adspcfd":"포도 주스(180㎖/캔)","adspcfd_cal":"80","sum_cal":""}
+,{"dates":"","brst":"멸치볶음","brst_cal":"100.19","lunc":"돼지고기고추장볶음 (5)(6)(10)","lunc_cal":"574.47","dinr":"새우살야채볶음 (5)(6)(9)","dinr_cal":"151.86","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"순두부계란찜 (1)(5)(9)","brst_cal":"89.28","lunc":"배추된장무침 (5)(6)","lunc_cal":"30.61","dinr":"콩나물매운무침 (5)","dinr_cal":"41.56","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"637.1","lunc":"","lunc_cal":"1,243.50","dinr":"","dinr_cal":"762.21","adspcfd":"","adspcfd_cal":"202","sum_cal":"2,844.81"}
+,{"dates":"20200622","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치찌개 (6)(10)","brst_cal":"125.99","lunc":"해물찌개 (5)(6)(9)(17)(18)","lunc_cal":"101.01","dinr":"어묵김치국 (5)(6)","dinr_cal":"76.44","adspcfd":"이온음료","adspcfd_cal":"58.8","sum_cal":""}
+,{"dates":"","brst":"버섯호박볶음 (5)(6)(9)","brst_cal":"62.02","lunc":"닭고기김치찜 (5)(6)(15)","lunc_cal":"305.25","dinr":"꽁치튀김 (6)","dinr_cal":"319.96","adspcfd":"라면(즉석 컵) (6)","adspcfd_cal":"365","sum_cal":""}
+,{"dates":"","brst":"쇠고기감자조림 (5)(6)(16)","brst_cal":"107.93","lunc":"순두부양념장 (5)(6)","lunc_cal":"89.44","dinr":"시금치무침 (5)(6)","dinr_cal":"32.26","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"파김치","lunc_cal":"23.6","dinr":"총각김치","dinr_cal":"18.45","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"683.19","lunc":"","lunc_cal":"882.3","dinr":"","dinr_cal":"835.24","adspcfd":"","adspcfd_cal":"545.8","sum_cal":"2,946.53"}
+,{"dates":"20200623","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"콩나물무채국 (5)","brst_cal":"27.88","lunc":"꼬리곰탕1형 (16)","lunc_cal":"579.56","dinr":"근대된장국 (5)(6)","dinr_cal":"37.28","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"계란장조림 (1)(5)(6)","brst_cal":"169.54","lunc":"오이고추장무침 (5)(6)","lunc_cal":"47.79","dinr":"탕수육 (1)(6)(10)(12)","dinr_cal":"810.21","adspcfd":"블루베리","adspcfd_cal":"15.3","sum_cal":""}
+,{"dates":"","brst":"무나물","brst_cal":"68.97","lunc":"낙지젓","lunc_cal":"12.95","dinr":"단무지무침","dinr_cal":"11.16","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"653.64","lunc":"","lunc_cal":"1,021.75","dinr":"","dinr_cal":"1,271.03","adspcfd":"","adspcfd_cal":"233.3","sum_cal":"3,179.72"}
+,{"dates":"20200624","brst":"찰보리밥","brst_cal":"385.12","lunc":"잡채밥 (5)(6)(10)","lunc_cal":"630.11","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"생선묵국 (5)(6)","brst_cal":"61.65","lunc":"야채튀김 (1)(6)(12)","lunc_cal":"398.1","dinr":"버섯된장찌개 (5)(6)","dinr_cal":"56.76","adspcfd":"워터젤리","adspcfd_cal":"176.4","sum_cal":""}
+,{"dates":"","brst":"새송이버섯야채볶음 (5)(6)(16)","brst_cal":"101.31","lunc":"뱅어포구이 (1)","lunc_cal":"87","dinr":"삼겹살구이 (10)","dinr_cal":"1,054.06","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"감자조림 (5)(6)","brst_cal":"88.17","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"상추쌈 (5)(6)","dinr_cal":"57.35","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"","lunc_cal":"","dinr":"총각김치","dinr_cal":"18.45","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"660.5","lunc":"","lunc_cal":"1,139.46","dinr":"","dinr_cal":"1,549.62","adspcfd":"","adspcfd_cal":"298.4","sum_cal":"3,647.98"}
+,{"dates":"20200625","brst":"흑미밥","brst_cal":"389.25","lunc":"전투식량 2형2식단(야채밥)","lunc_cal":"1,106","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"짬뽕찌개 (6)(17)(18)","brst_cal":"108.44","lunc":"콩나물국 (5)","lunc_cal":"25.28","dinr":"팽이버섯국 (5)(6)","dinr_cal":"46.12","adspcfd":"컵과일(메론)","adspcfd_cal":"54","sum_cal":""}
+,{"dates":"","brst":"버섯호박볶음 (5)(6)(9)","brst_cal":"62.02","lunc":"약고추장볶음 (6)","lunc_cal":"121.61","dinr":"생선가스 (1)(6)","dinr_cal":"599.95","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"97.27","lunc":"맛김","lunc_cal":"5.25","dinr":"감자샐러드 (1)","dinr_cal":"125.53","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"681.23","lunc":"","lunc_cal":"1,282.39","dinr":"","dinr_cal":"1,158.85","adspcfd":"","adspcfd_cal":"176","sum_cal":"3,298.47"}
+,{"dates":"20200626","brst":"검은콩밥","brst_cal":"391.91","lunc":"낙지덮밥 (2)(5)(6)","lunc_cal":"690.68","dinr":"볶음밥","dinr_cal":"461.98","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"소시지찌개 (5)(6)(10)","brst_cal":"181.54","lunc":"생선묵국 (5)(6)","lunc_cal":"61.65","dinr":"조개국 (1)","dinr_cal":"94.96","adspcfd":"복숭아주스(190ml/팩)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"조개살미역국 (5)","brst_cal":"19.35","lunc":"팽이버섯국 (5)(6)","lunc_cal":"43.7","dinr":"순두부해물찌개 (1)(5)(6)(17)(18)","dinr_cal":"146.12","adspcfd":"대추방울토마토(생산기) (12)","adspcfd_cal":"21.25","sum_cal":""}
+,{"dates":"","brst":"생선묵볶음 (5)(6)","brst_cal":"114.18","lunc":"닭갈비 (5)(6)(15)","lunc_cal":"277.53","dinr":"고추잡채 (5)(6)(10)","dinr_cal":"402.67","adspcfd":"오렌지 주스(200㎖/팩)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"무생채","brst_cal":"38.54","lunc":"햄감자볶음 (10)","lunc_cal":"122.42","dinr":"콩나물매운무침 (5)","dinr_cal":"41.56","adspcfd":"라면(즉석 컵) (6)","adspcfd_cal":"365","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"561.84","lunc":"","lunc_cal":"833.42","dinr":"","dinr_cal":"1,011.12","adspcfd":"","adspcfd_cal":"604.25","sum_cal":"3,010.63"}
+,{"dates":"20200524","brst":"밥","brst_cal":"363","lunc":"찰보리밥","lunc_cal":"385.12","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"계란국 (1)(5)","brst_cal":"93.23","lunc":"콩나물무채국 (5)","lunc_cal":"27.88","dinr":"닭고기육개장 (1)(5)(15)","dinr_cal":"234.99","adspcfd":"레몬에이드","adspcfd_cal":"26","sum_cal":""}
+,{"dates":"","brst":"생선묵꽈리고추볶음 (5)(6)","brst_cal":"106.88","lunc":"한우불고기 (5)(6)(16)","lunc_cal":"141.53","dinr":"두부김치 (5)(6)(10)","dinr_cal":"276.65","adspcfd":"쌀국수비빔면(영내자증식용) (6)","adspcfd_cal":"325","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"도라지오이무침 (6)(17)","lunc_cal":"65.6","dinr":"방어순살조림 (5)(6)","dinr_cal":"73.37","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"595.13","lunc":"","lunc_cal":"646.9","dinr":"","dinr_cal":"980.37","adspcfd":"","adspcfd_cal":"473","sum_cal":"2,695.40"}
+,{"dates":"20200525","brst":"떡만두국 (1)(5)(6)(10)(16)","brst_cal":"515.36","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"과일푸딩","adspcfd_cal":"126","sum_cal":""}
+,{"dates":"","brst":"애호박나물 (9)","brst_cal":"52.69","lunc":"배추된장국 (5)(6)","lunc_cal":"35.46","dinr":"소시지찌개 (5)(6)(10)","dinr_cal":"181.24","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"감자조림 (5)(6)","brst_cal":"84.85","lunc":"돼지갈비김치찜 (5)(6)(10)","lunc_cal":"389.67","dinr":"탕수육(완제품용) (5)(6)(10)(12)","dinr_cal":"511.58","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"뱅어포구이 (1)","lunc_cal":"93.72","dinr":"순두부계란찜 (1)(5)(9)","dinr_cal":"95.81","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"679.67","lunc":"","lunc_cal":"939.34","dinr":"","dinr_cal":"1,178.40","adspcfd":"","adspcfd_cal":"248","sum_cal":"3,045.41"}
+,{"dates":"20200526","brst":"찰보리밥","brst_cal":"385.12","lunc":"자장밥 (5)(6)(10)","lunc_cal":"696.3","dinr":"비빔밥 (5)(6)","dinr_cal":"584.93","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"53.82","lunc":"짬뽕찌개 (6)(17)","lunc_cal":"90.62","dinr":"콩나물두부국 (5)","dinr_cal":"45.34","adspcfd":"메론(봄, 가을)","adspcfd_cal":"72","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"닭강정 (1)(6)(15)","lunc_cal":"704.6","dinr":"계란후라이 (1)","dinr_cal":"125.64","adspcfd":"망고 주스(180㎖/캔)","adspcfd_cal":"90","sum_cal":""}
+,{"dates":"","brst":"오징어채무침 (6)(17)","brst_cal":"101.03","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"577.58","lunc":"","lunc_cal":"1,518.29","dinr":"","dinr_cal":"782.68","adspcfd":"","adspcfd_cal":"284","sum_cal":"3,162.55"}
+,{"dates":"20200527","brst":"밥","brst_cal":"363","lunc":"닭죽 (1)(15)(18)","lunc_cal":"561.53","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"두부김치국 (5)","brst_cal":"48.99","lunc":"명태순살강정 (5)(6)","lunc_cal":"421.65","dinr":"콩나물국 (5)","dinr_cal":"24.83","adspcfd":"이온음료","adspcfd_cal":"58.8","sum_cal":""}
+,{"dates":"","brst":"멸치볶음","brst_cal":"93.93","lunc":"낙지젓","lunc_cal":"13.97","dinr":"삼겹살구이 (10)","dinr_cal":"1,054.06","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"쇠고기버섯볶음 (5)(6)(16)","brst_cal":"94.56","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"오이고추장무침 (5)(6)","dinr_cal":"47.79","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"632.84","lunc":"","lunc_cal":"1,023.92","dinr":"","dinr_cal":"1,547.17","adspcfd":"","adspcfd_cal":"180.8","sum_cal":"3,384.73"}
+,{"dates":"20200528","brst":"밥","brst_cal":"363","lunc":"쫄면 (1)(5)(6)","lunc_cal":"792.65","dinr":"찰보리밥","dinr_cal":"385.12","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.41","lunc":"돈가스 (6)(10)","lunc_cal":"562.14","dinr":"팽이버섯국 (5)(6)","dinr_cal":"43.7","adspcfd":"음료수, 탄산, 과일","adspcfd_cal":"86.4","sum_cal":""}
+,{"dates":"","brst":"두부김치 (5)(6)(10)","brst_cal":"276.65","lunc":"단무지무침","lunc_cal":"12.6","dinr":"닭고기튀김 (1)(6)(15)","dinr_cal":"762.89","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"매실피클 (6)","dinr_cal":"89.32","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"735.67","lunc":"","lunc_cal":"1,394.16","dinr":"","dinr_cal":"1,307.80","adspcfd":"","adspcfd_cal":"208.4","sum_cal":"3,646.03"}
+,{"dates":"20200529","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"생선묵국 (5)(6)","brst_cal":"59","lunc":"호박된장찌개 (5)(6)","lunc_cal":"50.76","dinr":"쇠고기무국 (5)(16)","dinr_cal":"53.82","adspcfd":"참외,신선형(참외(45월))","adspcfd_cal":"47.5","sum_cal":""}
+,{"dates":"","brst":"쇠고기감자조림 (5)(6)(16)","brst_cal":"103.78","lunc":"두부고추장볶음 (5)(6)","lunc_cal":"75.27","dinr":"탕수육 (1)(6)(10)(12)","dinr_cal":"739.54","adspcfd":"포도 주스(180㎖/캔)","adspcfd_cal":"80","sum_cal":""}
+,{"dates":"","brst":"두부양념장 (5)(6)","brst_cal":"98.04","lunc":"표고버섯돼지고기볶음 (5)(6)(10)","lunc_cal":"367.09","dinr":"무생채","dinr_cal":"38.54","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"양배추쌈 (5)(6)","lunc_cal":"63.38","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"650.59","lunc":"","lunc_cal":"976.99","dinr":"","dinr_cal":"1,221.67","adspcfd":"","adspcfd_cal":"249.5","sum_cal":"3,098.75"}
+,{"dates":"20200530","brst":"핫도그빵 (1)(6)(10)(12)","brst_cal":"968.67","lunc":"밥","lunc_cal":"363","dinr":"흑미밥","dinr_cal":"389.25","adspcfd":"과일푸딩","adspcfd_cal":"126","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"돼지고기김치찌개 (6)(10)","lunc_cal":"125.69","dinr":"순두부찌개 (1)(5)(6)(10)","dinr_cal":"191.22","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"계란장조림 (1)(5)(6)","lunc_cal":"170.08","dinr":"오징어볶음 (17)","dinr_cal":"125.42","adspcfd":"팥빙수","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"콩나물매운무침 (5)","lunc_cal":"41.56","dinr":"감자조림 (5)(6)","dinr_cal":"84.85","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"968.67","lunc":"","lunc_cal":"732.69","dinr":"","dinr_cal":"817.51","adspcfd":"","adspcfd_cal":"550","sum_cal":"3,068.87"}
+,{"dates":"20200531","brst":"밥","brst_cal":"363","lunc":"고추참치덮밥 (6)","lunc_cal":"592.62","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기호박찌개 (6)(16)","brst_cal":"69.32","lunc":"떡볶이 (5)(6)","lunc_cal":"250.19","dinr":"감자된장국 (5)(6)","dinr_cal":"71.49","adspcfd":"초콜릿(3사교)","adspcfd_cal":"286","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치볶음 (10)","brst_cal":"206.08","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"닭매운찜(콩나물) (5)(6)(15)","dinr_cal":"289.61","adspcfd":"감귤 주스(340㎖/ 페트)","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"시금치무침 (5)(6)","dinr_cal":"30.84","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"676.01","lunc":"","lunc_cal":"995.22","dinr":"","dinr_cal":"806.84","adspcfd":"","adspcfd_cal":"588","sum_cal":"3,066.07"}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"20200601","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"60.38","lunc":"팽이버섯국 (5)(6)","lunc_cal":"46.12","dinr":"콩나물김치국 (5)","dinr_cal":"30.81","adspcfd":"복숭아 주스(340㎖/캔)","adspcfd_cal":"188","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"쇠고기불고기 (5)(6)(16)","lunc_cal":"169.18","dinr":"고등어카레튀김 (6)","dinr_cal":"281.06","adspcfd":"라면(즉석 컵) (6)","adspcfd_cal":"365","sum_cal":""}
+,{"dates":"","brst":"오징어채무침 (6)(17)","brst_cal":"91.26","lunc":"상추겉절이 (5)(6)","lunc_cal":"29.2","dinr":"감자샐러드 (1)","dinr_cal":"125.53","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"544.14","lunc":"","lunc_cal":"657.16","dinr":"","dinr_cal":"824.65","adspcfd":"","adspcfd_cal":"675","sum_cal":"2,700.95"}
+,{"dates":"20200602","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"계란국 (1)(5)","brst_cal":"93.07","lunc":"근대된장국 (5)(6)","lunc_cal":"37.28","dinr":"돼지고기김치찌개 (6)(10)","dinr_cal":"125.99","adspcfd":"수박(상품)","adspcfd_cal":"88.32","sum_cal":""}
+,{"dates":"","brst":"쇠고기버섯볶음 (5)(6)(16)","brst_cal":"98.48","lunc":"쭈꾸미볶음 (5)(6)","lunc_cal":"144.54","dinr":"애호박나물 (9)","dinr_cal":"52.69","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"오이고추장무침 (5)(6)","brst_cal":"47.79","lunc":"야채튀김 (1)(6)(12)","lunc_cal":"398.1","dinr":"닭고기감자조림 (5)(6)(15)","dinr_cal":"239.52","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"총각김치","dinr_cal":"18.45","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"626.59","lunc":"","lunc_cal":"967.17","dinr":"","dinr_cal":"824.78","adspcfd":"","adspcfd_cal":"210.32","sum_cal":"2,628.86"}
+,{"dates":"20200603","brst":"밥","brst_cal":"363","lunc":"흑미밥","lunc_cal":"389.25","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"시금치된장국 (5)(6)","brst_cal":"43.35","lunc":"짬뽕찌개 (6)(17)(18)","lunc_cal":"108.44","dinr":"감자된장국 (5)(6)","dinr_cal":"72.8","adspcfd":"생수(500ML,부식)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"돼지고기콩나물볶음 (5)(6)(10)","brst_cal":"399.17","lunc":"장어강정 (6)(12)","lunc_cal":"479.73","dinr":"고추잡채 (5)(6)(10)","dinr_cal":"412.74","adspcfd":"망고 주스(180㎖/캔)","adspcfd_cal":"90","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"브로콜리/초고추장 (6)","lunc_cal":"66.2","dinr":"두부양념장 (5)(6)","dinr_cal":"96.12","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"오이소박이","lunc_cal":"22.2","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"835.02","lunc":"","lunc_cal":"1,065.82","dinr":"","dinr_cal":"968.91","adspcfd":"","adspcfd_cal":"212","sum_cal":"3,081.75"}
+,{"dates":"20200604","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.63","lunc":"건새우아욱된장국 (5)(6)","lunc_cal":"41.83","dinr":"북어채국 (1)(5)","dinr_cal":"88.75","adspcfd":"메론","adspcfd_cal":"72","sum_cal":""}
+,{"dates":"","brst":"꽈리고추멸치볶음 (5)(6)","brst_cal":"124.94","lunc":"닭갈비 (5)(6)(15)","lunc_cal":"305.24","dinr":"탕수육 (1)(6)(10)(12)","dinr_cal":"810.21","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"계란장조림 (1)(5)(6)","brst_cal":"169.54","lunc":"모듬야채 (5)(6)","lunc_cal":"52.82","dinr":"콩나물무침 (5)","dinr_cal":"36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"740.36","lunc":"","lunc_cal":"812.55","dinr":"","dinr_cal":"1,322.21","adspcfd":"","adspcfd_cal":"316","sum_cal":"3,191.12"}
+,{"dates":"20200605","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"배추된장국 (5)(6)","brst_cal":"36.09","lunc":"콩나물무채국 (5)","lunc_cal":"27.88","dinr":"두부김치국 (5)","dinr_cal":"49.21","adspcfd":"초콜릿(3사교)","adspcfd_cal":"286","sum_cal":""}
+,{"dates":"","brst":"멸치볶음","brst_cal":"100.19","lunc":"오리갈릭구이칠리소스 (1)","lunc_cal":"303.3","dinr":"오징어튀김 (1)(6)","dinr_cal":"349.11","adspcfd":"배 주스(238㎖/캔)","adspcfd_cal":"116","sum_cal":""}
+,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"97.27","lunc":"부추겉절이 (5)(6)","lunc_cal":"33.14","dinr":"오이고추장무침 (5)(6)","dinr_cal":"47.79","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"645.93","lunc":"","lunc_cal":"751.57","dinr":"","dinr_cal":"833.36","adspcfd":"","adspcfd_cal":"524","sum_cal":"2,754.86"}
+,{"dates":"20200606","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"현미밥","dinr_cal":"388.41","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"60.38","lunc":"된장국(일품용) (5)(6)","lunc_cal":"61.52","dinr":"닭고기육개장 (1)(5)(15)","dinr_cal":"231.84","adspcfd":"수박(상품)","adspcfd_cal":"88.32","sum_cal":""}
+,{"dates":"","brst":"오징어채볶음 (1)(5)(6)(17)","brst_cal":"165.36","lunc":"돼지불고기 (5)(6)(10)","lunc_cal":"536.22","dinr":"새송이버섯야채볶음 (5)(6)(16)","dinr_cal":"101.31","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"버섯호박볶음 (5)(6)(9)","brst_cal":"62.02","lunc":"양배추쌈 (5)(6)","lunc_cal":"66.88","dinr":"무나물","dinr_cal":"68.97","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"675.01","lunc":"","lunc_cal":"1,051.87","dinr":"","dinr_cal":"814.78","adspcfd":"","adspcfd_cal":"210.32","sum_cal":"2,751.98"}
+,{"dates":"20200607","brst":"잡곡밥","brst_cal":"363.83","lunc":"밥","lunc_cal":"363","dinr":"잡채밥 (5)(6)(10)","dinr_cal":"630.11","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"60.38","lunc":"북어채국 (1)(5)","lunc_cal":"88.75","dinr":"두부김치 (5)(6)(10)","dinr_cal":"280.52","adspcfd":"에너지바","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"감자채볶음","brst_cal":"67.77","lunc":"아귀찜 (5)(6)(17)","lunc_cal":"138.24","dinr":"감자조림 (5)(6)","dinr_cal":"88.17","adspcfd":"즉석쌀국수(멸치맛) (6)","adspcfd_cal":"325","sum_cal":""}
+,{"dates":"","brst":"오징어젓무침 (17)","brst_cal":"56.35","lunc":"계란장조림 (1)(5)(6)","lunc_cal":"169.54","dinr":"갓김치","dinr_cal":"12.8","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"572.58","lunc":"","lunc_cal":"777.98","dinr":"","dinr_cal":"1,011.60","adspcfd":"","adspcfd_cal":"447","sum_cal":"2,809.16"}
+,{"dates":"20200504","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개국 (1)","brst_cal":"91.55","lunc":"전복삼계탕 (15)(18)","lunc_cal":"666.56","dinr":"짬뽕찌개 (6)(17)","dinr_cal":"90.62","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"돼지고기콩나물볶음 (5)(6)(10)","brst_cal":"366.98","lunc":"쇠고기배추볶음 (5)(6)(16)","lunc_cal":"111.72","dinr":"치킨너겟 (1)(5)(6)(10)(12)","dinr_cal":"555.94","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"오이고추장무침 (5)(6)","brst_cal":"47.79","lunc":"브로콜리/초고추장 (6)","lunc_cal":"58.94","dinr":"감자조림 (5)(6)","dinr_cal":"84.85","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"901.68","lunc":"","lunc_cal":"1,257.71","dinr":"","dinr_cal":"1,121.18","adspcfd":"","adspcfd_cal":"218","sum_cal":"3,498.57"}
+,{"dates":"20200505","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"된장국(일품용) (5)(6)","brst_cal":"61.3","lunc":"북어채국 (1)(5)","lunc_cal":"79.82","dinr":"순두부찌개 (1)(5)(6)(10)","dinr_cal":"191.22","adspcfd":"컵과일","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"돼지고기고추장볶음 (5)(6)(10)","brst_cal":"535.43","lunc":"버섯호박볶음 (5)(6)(9)","lunc_cal":"58.15","dinr":"계란찜 (1)(9)","dinr_cal":"82","adspcfd":"복숭아주스(190ml/팩)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"닭간장소스찜 (5)(6)(15)","lunc_cal":"271.93","dinr":"고등어김치조림 (5)(6)(7)","dinr_cal":"189.26","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"1,016.88","lunc":"","lunc_cal":"805.26","dinr":"","dinr_cal":"857.84","adspcfd":"","adspcfd_cal":"122","sum_cal":"2,801.98"}
+,{"dates":"20200506","brst":"밥","brst_cal":"363","lunc":"흑미밥","lunc_cal":"389.25","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.41","lunc":"두부김치국 (5)","lunc_cal":"48.99","dinr":"광어매운탕 (5)(6)","dinr_cal":"127.54","adspcfd":"사과(후지, 상품)","adspcfd_cal":"53.29","sum_cal":""}
+,{"dates":"","brst":"비엔나소시지케찹볶음 (6)(10)(12)","brst_cal":"332.61","lunc":"떡볶이 (5)(6)","lunc_cal":"250.19","dinr":"쇠고기불고기 (5)(6)(16)","dinr_cal":"172.08","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"두부양념장 (5)(6)","brst_cal":"98.04","lunc":"오징어튀김 (1)(6)","lunc_cal":"352.63","dinr":"오이양파장아찌 (5)(6)","dinr_cal":"37.3","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"878.83","lunc":"","lunc_cal":"1,067.83","dinr":"","dinr_cal":"732.28","adspcfd":"","adspcfd_cal":"175.29","sum_cal":"2,854.23"}
+,{"dates":"20200507","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"햄치즈버거 (1)(2)(6)(10)(12)","dinr_cal":"1,341.94","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"근대된장국 (5)(6)","brst_cal":"37.28","lunc":"돼지고기김치찌개 (6)(10)","lunc_cal":"125.69","dinr":"","dinr_cal":"","adspcfd":"에너지바","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"새송이버섯야채볶음 (5)(6)(16)","brst_cal":"94.82","lunc":"순두부계란찜 (1)(5)(9)","lunc_cal":"95.81","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"무나물","brst_cal":"64.24","lunc":"삼치순살조림 (5)(6)","lunc_cal":"67.92","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"파김치","brst_cal":"23.6","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"582.94","lunc":"","lunc_cal":"710.19","dinr":"","dinr_cal":"1,341.94","adspcfd":"","adspcfd_cal":"244","sum_cal":"2,879.07"}
+,{"dates":"20200508","brst":"밥","brst_cal":"363","lunc":"잡곡밥","lunc_cal":"363.74","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"53.82","lunc":"감자된장국 (5)(6)","lunc_cal":"71.49","dinr":"두부고추장찌개 (5)(6)(16)","dinr_cal":"93.6","adspcfd":"이온음료","adspcfd_cal":"58.8","sum_cal":""}
+,{"dates":"","brst":"오징어채간장볶음 (6)(12)(17)","brst_cal":"130.73","lunc":"돼지불고기 (5)(6)(10)","lunc_cal":"562.23","dinr":"돈가스 (6)(10)","dinr_cal":"562.14","adspcfd":"포도 주스(180㎖/캔)","adspcfd_cal":"80","sum_cal":""}
+,{"dates":"","brst":"배추된장무침 (5)(6)","brst_cal":"32.7","lunc":"브로콜리/초고추장 (6)","lunc_cal":"58.94","dinr":"감자샐러드 (1)","dinr_cal":"114.68","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"백김치","lunc_cal":"16.8","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"612.61","lunc":"","lunc_cal":"1,073.20","dinr":"","dinr_cal":"1,160.19","adspcfd":"","adspcfd_cal":"260.8","sum_cal":"3,106.80"}
+,{"dates":"20200509","brst":"핫도그빵 (1)(6)(10)(12)","brst_cal":"968.67","lunc":"밥","lunc_cal":"363","dinr":"찰보리밥","dinr_cal":"385.12","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"호박된장찌개 (5)(6)","lunc_cal":"50.76","dinr":"햄김치찌개 (5)(6)(10)","dinr_cal":"130.31","adspcfd":"비타민음료","adspcfd_cal":"90","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"버섯호박볶음 (5)(6)(9)","lunc_cal":"58.15","dinr":"고추잡채 (5)(6)(10)","dinr_cal":"402.67","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"닭고기김치찜 (5)(6)(15)","lunc_cal":"289.71","dinr":"무생채","dinr_cal":"38.54","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"968.67","lunc":"","lunc_cal":"793.98","dinr":"","dinr_cal":"983.41","adspcfd":"","adspcfd_cal":"334","sum_cal":"3,080.06"}
+,{"dates":"20200510","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"잡채밥 (5)(6)(10)","dinr_cal":"629.23","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개국 (1)","brst_cal":"91.55","lunc":"건새우아욱된장국 (5)(6)","lunc_cal":"36.25","dinr":"감자양파찌개 (5)(6)(16)","dinr_cal":"84.89","adspcfd":"아이스크림 콘,완제품 (2)","adspcfd_cal":"270","sum_cal":""}
+,{"dates":"","brst":"쇠고기버섯볶음 (5)(6)(16)","brst_cal":"94.56","lunc":"돼지고기고추장볶음 (5)(6)(10)","lunc_cal":"535.43","dinr":"오징어채볶음 (1)(5)(6)(17)","dinr_cal":"159.97","adspcfd":"오렌지 주스(200㎖/팩)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"양배추쌈 (5)(6)","lunc_cal":"63.38","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"606.26","lunc":"","lunc_cal":"1,030.42","dinr":"","dinr_cal":"900.86","adspcfd":"","adspcfd_cal":"488","sum_cal":"3,025.54"}
+,{"dates":"20200511","brst":"흑미밥","brst_cal":"389.25","lunc":"낙지덮밥 (5)(6)","lunc_cal":"523.97","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"된장국(일품용) (5)(6)","brst_cal":"61.3","lunc":"쇠고기호박찌개 (6)(16)","lunc_cal":"69.32","dinr":"순두부해물찌개 (1)(5)(6)(17)(18)","dinr_cal":"146.12","adspcfd":"음료수, 탄산, 과일","adspcfd_cal":"86.4","sum_cal":""}
+,{"dates":"","brst":"매운소시지떡볶음 (5)(6)(10)(12)","brst_cal":"341.88","lunc":"오이고추장무침 (5)(6)","lunc_cal":"47.79","dinr":"양념통닭 (1)(6)(15)","dinr_cal":"809.89","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"감자채볶음","brst_cal":"67.77","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"콩나물무침 (5)","dinr_cal":"36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"886.97","lunc":"","lunc_cal":"673.44","dinr":"","dinr_cal":"1,381.78","adspcfd":"","adspcfd_cal":"208.4","sum_cal":"3,150.59"}
+,{"dates":"20200512","brst":"떡만두국 (1)(5)(6)(10)(16)","brst_cal":"515.36","lunc":"자장면 (1)(2)(5)(6)(10)","lunc_cal":"1,052.04","dinr":"현미밥","dinr_cal":"388.41","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"시금치무침 (5)(6)","brst_cal":"30.84","lunc":"북어채볶음 (5)(6)","lunc_cal":"98.53","dinr":"배추된장국 (5)(6)","dinr_cal":"35.46","adspcfd":"아이스샌드","adspcfd_cal":"252","sum_cal":""}
+,{"dates":"","brst":"오징어젓무침 (17)","brst_cal":"57.35","lunc":"만두튀김 (1)(5)(6)(10)","lunc_cal":"666","dinr":"애호박나물 (9)","dinr_cal":"52.69","adspcfd":"가공우유(바나나) (2)","adspcfd_cal":"167","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"돼지불고기 (5)(6)(10)","dinr_cal":"562.23","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"630.32","lunc":"","lunc_cal":"1,843.34","dinr":"","dinr_cal":"1,071.15","adspcfd":"","adspcfd_cal":"541","sum_cal":"4,085.81"}
+,{"dates":"20200513","brst":"밥","brst_cal":"363","lunc":"잡곡밥","lunc_cal":"363.74","dinr":"제육덮밥 (5)(6)(10)(17)","dinr_cal":"662.49","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"팽이버섯국 (5)(6)","brst_cal":"43.7","lunc":"꼬리곰탕1형 (16)","lunc_cal":"579.66","dinr":"새우살야채볶음 (5)(6)(9)","dinr_cal":"147.99","adspcfd":"아이스크림 팩형 (2)","adspcfd_cal":"234","sum_cal":""}
+,{"dates":"","brst":"생선묵고추장볶음 (5)(6)","brst_cal":"127.21","lunc":"계란장조림 (1)(5)(6)","lunc_cal":"170.08","dinr":"야채튀김 (1)(6)(12)","dinr_cal":"386.67","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"무생채","lunc_cal":"38.54","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"565.93","lunc":"","lunc_cal":"1,178.79","dinr":"","dinr_cal":"1,229.51","adspcfd":"","adspcfd_cal":"356","sum_cal":"3,330.23"}
+,{"dates":"20200514","brst":"밥","brst_cal":"363","lunc":"햄치즈버거(개선) (1)(2)(6)(10)(12)","lunc_cal":"1,347.14","dinr":"흑미밥","dinr_cal":"389.25","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.41","lunc":"","lunc_cal":"","dinr":"버섯된장찌개 (5)(6)","dinr_cal":"54.33","adspcfd":"배 주스(238㎖/캔)","adspcfd_cal":"116","sum_cal":""}
+,{"dates":"","brst":"꽈리고추멸치볶음 (5)(6)","brst_cal":"117.77","lunc":"","lunc_cal":"","dinr":"치킨너겟 (1)(5)(6)(10)(12)","dinr_cal":"555.94","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"도라지오이무침 (6)(17)","brst_cal":"65.6","lunc":"","lunc_cal":"","dinr":"감자조림 (5)(6)","dinr_cal":"84.85","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"631.55","lunc":"","lunc_cal":"1,347.14","dinr":"","dinr_cal":"1,111.14","adspcfd":"","adspcfd_cal":"360","sum_cal":"3,449.83"}
+,{"dates":"20200515","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"소시지찌개 (5)(6)(10)","brst_cal":"181.24","lunc":"해물찌개 (5)(6)(9)(17)(18)","lunc_cal":"98.15","dinr":"조개국 (1)","dinr_cal":"91.55","adspcfd":"아이스크림, 떠먹는형","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"돼지고기콩나물볶음 (5)(6)(10)","brst_cal":"366.98","lunc":"닭갈비 (5)(6)(15)","lunc_cal":"277.53","dinr":"쇠고기파프리카볶음 (5)(6)(12)(16)","dinr_cal":"195.03","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"오이양파장아찌 (5)(6)","brst_cal":"37.3","lunc":"고구마맛탕","lunc_cal":"435.68","dinr":"순두부양념장 (5)(6)","dinr_cal":"80.02","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"980.88","lunc":"","lunc_cal":"1,226.26","dinr":"","dinr_cal":"761.96","adspcfd":"","adspcfd_cal":"302","sum_cal":"3,271.10"}
+,{"dates":"20200516","brst":"불고기버거 (1)(2)(6)(10)(12)","brst_cal":"990.43","lunc":"흑미밥","lunc_cal":"389.25","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"닭고기육개장 (1)(5)(15)","lunc_cal":"234.99","dinr":"쇠고기무국 (5)(16)","dinr_cal":"53.82","adspcfd":"아이스 망고바","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"두부김치 (5)(6)(10)","lunc_cal":"276.65","dinr":"궁중떡볶이 (5)(6)(16)","dinr_cal":"240.01","adspcfd":"가공우유(초코) (2)","adspcfd_cal":"126","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"콩나물무침 (5)","lunc_cal":"36","dinr":"계란찜 (1)(9)","dinr_cal":"82","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"990.43","lunc":"","lunc_cal":"969.25","dinr":"","dinr_cal":"765.6","adspcfd":"","adspcfd_cal":"248","sum_cal":"2,973.28"}
+,{"dates":"20200517","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"자장밥 (5)(6)(10)","dinr_cal":"696.3","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"감자양파찌개 (5)(6)(16)","brst_cal":"84.89","lunc":"시금치된장국 (5)(6)","lunc_cal":"41.71","dinr":"콩나물김치국 (5)","dinr_cal":"28.23","adspcfd":"팥빙수","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"비엔나소시지케찹볶음 (6)(10)(12)","brst_cal":"332.61","lunc":"오삼불고기 (5)(6)(10)(17)","lunc_cal":"330.48","dinr":"오이고추장무침 (5)(6)","dinr_cal":"47.79","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"시금치무침 (5)(6)","brst_cal":"30.84","lunc":"양배추쌈 (5)(6)","lunc_cal":"63.38","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"파김치","lunc_cal":"23.6","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"863.24","lunc":"","lunc_cal":"822.17","dinr":"","dinr_cal":"804.68","adspcfd":"","adspcfd_cal":"302","sum_cal":"2,792.09"}
+,{"dates":"20200518","brst":"밥","brst_cal":"363","lunc":"비빔밥 (5)(6)","lunc_cal":"584.93","dinr":"잡곡밥","dinr_cal":"363.74","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"생선묵국 (5)(6)","brst_cal":"59","lunc":"근대된장국 (5)(6)","lunc_cal":"37.28","dinr":"쇠고기육개장 (1)(5)(6)(16)","dinr_cal":"119.98","adspcfd":"유산균 발효 음료 (2)","adspcfd_cal":"56","sum_cal":""}
+,{"dates":"","brst":"새송이버섯야채볶음 (5)(6)(16)","brst_cal":"94.82","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"조기튀김 (6)","dinr_cal":"375.83","adspcfd":"사과 주스(200㎖/팩)","adspcfd_cal":"93","sum_cal":""}
+,{"dates":"","brst":"김자반","brst_cal":"43","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"두부조림 (5)(6)","dinr_cal":"131.05","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"586.59","lunc":"","lunc_cal":"780.21","dinr":"","dinr_cal":"1,017.37","adspcfd":"","adspcfd_cal":"271","sum_cal":"2,655.17"}
+,{"dates":"20200519","brst":"밥","brst_cal":"363","lunc":"생우동 (5)(6)","lunc_cal":"413.9","dinr":"검은콩밥","dinr_cal":"391.91","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치찌개 (6)(10)","brst_cal":"125.69","lunc":"팝콘형치킨너겟 (1)(6)(12)","lunc_cal":"569.97","dinr":"햄김치찌개 (5)(6)(10)","dinr_cal":"130.31","adspcfd":"바나나","adspcfd_cal":"67.2","sum_cal":""}
+,{"dates":"","brst":"감자채볶음","brst_cal":"67.77","lunc":"단무지무침","lunc_cal":"12.6","dinr":"버섯호박볶음 (5)(6)(9)","dinr_cal":"58.15","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"멸치볶음","brst_cal":"93.93","lunc":"백김치","lunc_cal":"16.8","dinr":"쇠고기팽이버섯떡볶음 (5)(6)(12)(16)","dinr_cal":"206.34","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"677.16","lunc":"","lunc_cal":"1,013.27","dinr":"","dinr_cal":"819.07","adspcfd":"","adspcfd_cal":"189.2","sum_cal":"2,698.70"}
+,{"dates":"20200520","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"김치볶음밥 (5)(6)(10)","dinr_cal":"575.11","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"꼬리곰탕1형 (16)","brst_cal":"579.66","lunc":"쇠고기미역국 (5)(16)","lunc_cal":"58.41","dinr":"애호박나물 (9)","dinr_cal":"52.69","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치볶음 (10)","brst_cal":"206.08","lunc":"생선가스 (1)(6)","lunc_cal":"575.75","dinr":"계란장조림 (1)(5)(6)","dinr_cal":"170.08","adspcfd":"복숭아주스(190ml/팩)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"콩나물무침 (5)","brst_cal":"36","lunc":"오이양파장아찌 (5)(6)","lunc_cal":"37.3","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"1,217.10","lunc":"","lunc_cal":"1,086.64","dinr":"","dinr_cal":"824.65","adspcfd":"","adspcfd_cal":"218","sum_cal":"3,346.39"}
+,{"dates":"20200521","brst":"밥","brst_cal":"363","lunc":"새우버거 (1)(2)(6)(9)(12)","lunc_cal":"1,161.65","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"감자된장국 (5)(6)","brst_cal":"71.49","lunc":"","lunc_cal":"","dinr":"쇠고기무국 (5)(16)","dinr_cal":"53.82","adspcfd":"컵과일","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"꽈리고추멸치볶음 (5)(6)","brst_cal":"117.77","lunc":"","lunc_cal":"","dinr":"오삼불고기 (5)(6)(10)(17)","dinr_cal":"330.48","adspcfd":"가공우유(딸기) (2)","adspcfd_cal":"116","sum_cal":""}
+,{"dates":"","brst":"우엉조림 (5)(6)(16)","brst_cal":"102.57","lunc":"","lunc_cal":"","dinr":"마늘쫑무침 (5)(6)","dinr_cal":"64.14","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"681.6","lunc":"","lunc_cal":"1,161.65","dinr":"","dinr_cal":"868.93","adspcfd":"","adspcfd_cal":"238","sum_cal":"2,950.18"}
+,{"dates":"20200522","brst":"잡곡밥","brst_cal":"363.74","lunc":"전투식량 2형3식단(잡채밥)","lunc_cal":"1,196","dinr":"마파두부덮밥 (5)(6)(10)","dinr_cal":"668.21","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"어묵김치국 (5)(6)","brst_cal":"74.02","lunc":"콩나물국 (5)","lunc_cal":"24.83","dinr":"버섯된장찌개 (5)(6)","dinr_cal":"54.33","adspcfd":"아이스크림 콘,완제품 (2)","adspcfd_cal":"270","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"약고추장볶음 (6)","lunc_cal":"107.14","dinr":"고등어카레튀김 (6)(7)","dinr_cal":"438.73","adspcfd":"복숭아 주스(340㎖/캔)","adspcfd_cal":"188","sum_cal":""}
+,{"dates":"","brst":"쇠고기감자조림 (5)(6)(16)","brst_cal":"103.78","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"573.56","lunc":"","lunc_cal":"1,354.74","dinr":"","dinr_cal":"1,193.63","adspcfd":"","adspcfd_cal":"580","sum_cal":"3,701.93"}
+,{"dates":"20200523","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"현미밥","dinr_cal":"388.41","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"759.56","lunc":"","lunc_cal":"863.56","dinr":"","dinr_cal":"1,024.61","adspcfd":"","adspcfd_cal":"178","sum_cal":"2,825.73"}
+,{"dates":"20200420","brst":"밥","brst_cal":"363","lunc":"찰보리밥","lunc_cal":"385.12","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"배추된장국 (5)(6)","brst_cal":"33.04","lunc":"콩나물두부국 (5)","lunc_cal":"45.56","dinr":"쇠고기호박찌개 (6)(16)","dinr_cal":"61.2","adspcfd":"아이스크림 콘,완제품 (2)","adspcfd_cal":"270","sum_cal":""}
+,{"dates":"","brst":"버섯호박볶음 (5)(6)(9)","brst_cal":"58.15","lunc":"한우불고기 (5)(6)(16)","lunc_cal":"127.43","dinr":"돈가스 (6)(10)","dinr_cal":"562.14","adspcfd":"짜먹는요구르트 (2)","adspcfd_cal":"76.8","sum_cal":""}
+,{"dates":"","brst":"두부양념장 (5)(6)","brst_cal":"98.04","lunc":"양배추쌈 (5)(6)","lunc_cal":"76.88","dinr":"감자조림 (5)(6)","dinr_cal":"84.16","adspcfd":"복숭아 주스(340㎖/캔)","adspcfd_cal":"188","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"파김치","lunc_cal":"23.6","dinr":"깍두기(임가공)","dinr_cal":"32.34","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"561.98","lunc":"","lunc_cal":"658.59","dinr":"","dinr_cal":"1,102.84","adspcfd":"","adspcfd_cal":"656.8","sum_cal":"2,980.21"}
+,{"dates":"20200421","brst":"떡만두국 (1)(5)(6)(10)(16)","brst_cal":"593.11","lunc":"비빔밥 (5)(6)","lunc_cal":"583.21","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"꽈리고추멸치볶음 (5)(6)","brst_cal":"120.7","lunc":"콩나물김치국 (5)","lunc_cal":"31.9","dinr":"돼지고기김치찌개 (6)(10)","dinr_cal":"125.69","adspcfd":"사과(후지, 상품)","adspcfd_cal":"53.29","sum_cal":""}
+,{"dates":"","brst":"마늘쫑무침 (5)(6)","brst_cal":"64.14","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"고등어카레튀김 (6)(7)","dinr_cal":"328.44","adspcfd":"즉석쌀국수(멸치맛) (6)","adspcfd_cal":"325","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"깻잎찜 (5)(6)","dinr_cal":"48.67","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"787.7","lunc":"","lunc_cal":"750.5","dinr":"","dinr_cal":"875.55","adspcfd":"","adspcfd_cal":"500.29","sum_cal":"2,914.04"}
+,{"dates":"20200422","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"자장밥 (5)(6)(10)","dinr_cal":"696.3","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"41.33","lunc":"대구매운탕 (5)","lunc_cal":"32.26","dinr":"순두부찌개 (1)(5)(6)(10)","dinr_cal":"187.98","adspcfd":"음료수, 탄산, 과일","adspcfd_cal":"86.4","sum_cal":""}
+,{"dates":"","brst":"애호박나물 (9)","brst_cal":"53.23","lunc":"양념통닭 (1)(6)(15)","lunc_cal":"717.36","dinr":"골뱅이고추장볶음 (5)(6)","dinr_cal":"158.03","adspcfd":"에너지바","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"83.25","lunc":"무생채","lunc_cal":"25.49","dinr":"깍두기(임가공)","dinr_cal":"32.34","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"550.56","lunc":"","lunc_cal":"1,172.99","dinr":"","dinr_cal":"1,074.65","adspcfd":"","adspcfd_cal":"208.4","sum_cal":"3,006.60"}
+,{"dates":"20200423","brst":"밥","brst_cal":"363","lunc":"햄치즈버거 (1)(2)(6)(10)(12)","lunc_cal":"1,338.03","dinr":"볶음밥","dinr_cal":"484.85","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"40.39","lunc":"","lunc_cal":"","dinr":"순두부계란찜 (1)(5)(9)","dinr_cal":"98.31","adspcfd":"냉동과일(3사교)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"생선묵고추장볶음 (5)(6)","brst_cal":"129.71","lunc":"","lunc_cal":"","dinr":"감자샐러드 (1)","dinr_cal":"115.93","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"548.1","lunc":"","lunc_cal":"1,338.03","dinr":"","dinr_cal":"708.84","adspcfd":"","adspcfd_cal":"244","sum_cal":"2,838.97"}
+,{"dates":"20200424","brst":"흑미밥","brst_cal":"389.25","lunc":"콩나물밥 (5)(6)","lunc_cal":"428.86","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"햄김치찌개 (5)(6)(10)","brst_cal":"127.07","lunc":"두부김치국 (5)","lunc_cal":"48.68","dinr":"사골곰탕 (16)","dinr_cal":"184.22","adspcfd":"아이스크림 콘,완제품 (2)","adspcfd_cal":"270","sum_cal":""}
+,{"dates":"","brst":"오징어채볶음 (1)(5)(6)(17)","brst_cal":"138.46","lunc":"닭고기튀김 (1)(6)(15)","lunc_cal":"661.33","dinr":"쇠고기팽이버섯떡볶음 (5)(6)(12)(16)","dinr_cal":"206.02","adspcfd":"컵과일","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"오이고추장무침 (5)(6)","dinr_cal":"51.66","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"669.78","lunc":"","lunc_cal":"1,171.21","dinr":"","dinr_cal":"814.65","adspcfd":"","adspcfd_cal":"392","sum_cal":"3,047.64"}
+,{"dates":"20200425","brst":"불고기버거 (1)(2)(6)(10)(12)","brst_cal":"986.52","lunc":"밥","lunc_cal":"363","dinr":"비빔밥 (5)(6)","dinr_cal":"583.21","adspcfd":"과일푸딩","adspcfd_cal":"126","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"콩나물무채국 (5)","lunc_cal":"21.7","dinr":"된장국(일품용) (5)(6)","dinr_cal":"63.61","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"버섯호박볶음 (5)(6)(9)","lunc_cal":"58.15","dinr":"계란후라이 (1)","dinr_cal":"125.64","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"오리불고기 (5)(6)","lunc_cal":"292.92","dinr":"백김치","dinr_cal":"16.8","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"파김치","lunc_cal":"23.6","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"986.52","lunc":"","lunc_cal":"759.37","dinr":"","dinr_cal":"789.26","adspcfd":"","adspcfd_cal":"248","sum_cal":"2,783.15"}
+,{"dates":"20200426","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"계란국 (1)(5)","brst_cal":"95.45","lunc":"팽이버섯국 (5)(6)","lunc_cal":"39.46","dinr":"해물찌개 (5)(6)(9)(17)(18)","dinr_cal":"95.84","adspcfd":"식혜","adspcfd_cal":"82","sum_cal":""}
+,{"dates":"","brst":"멸치볶음","brst_cal":"93.93","lunc":"닭고기김치찜 (5)(6)(15)","lunc_cal":"285.44","dinr":"고추잡채 (5)(6)(10)","dinr_cal":"376.52","adspcfd":"레몬에이드","adspcfd_cal":"26","sum_cal":""}
+,{"dates":"","brst":"감자조림 (5)(6)","brst_cal":"84.16","lunc":"도라지오이무침 (6)(17)","lunc_cal":"70.18","dinr":"계란찜 (1)(9)","dinr_cal":"83.25","adspcfd":"배 주스(238㎖/캔)","adspcfd_cal":"116","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"646.29","lunc":"","lunc_cal":"815.55","dinr":"","dinr_cal":"928.36","adspcfd":"","adspcfd_cal":"346","sum_cal":"2,736.20"}
+,{"dates":"20200427","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"순두부해물찌개 (1)(5)(6)(9)(17)(18)","brst_cal":"141.19","lunc":"된장국(일품용) (5)(6)","lunc_cal":"63.61","dinr":"닭고기육개장 (1)(5)(15)","dinr_cal":"218.67","adspcfd":"워터젤리","adspcfd_cal":"176.4","sum_cal":""}
+,{"dates":"","brst":"비엔나소시지케찹볶음 (6)(10)(12)","brst_cal":"332.61","lunc":"오삼불고기 (5)(6)(10)(17)","lunc_cal":"334.49","dinr":"두부김치 (5)(6)(10)","dinr_cal":"276.65","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"무생채","brst_cal":"25.49","lunc":"계란말이 (1)(12)","lunc_cal":"72.63","dinr":"조기튀김 (6)","dinr_cal":"360.38","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"872.04","lunc":"","lunc_cal":"868.61","dinr":"","dinr_cal":"1,228.45","adspcfd":"","adspcfd_cal":"298.4","sum_cal":"3,267.50"}
+,{"dates":"20200428","brst":"밥","brst_cal":"363","lunc":"자장면 (1)(5)(6)(10)","lunc_cal":"885.16","dinr":"잡곡밥","dinr_cal":"363.64","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"계란국 (1)(5)","brst_cal":"95.45","lunc":"깐쇼새우 (5)(6)(12)","lunc_cal":"446.25","dinr":"소시지찌개 (5)(6)(10)","dinr_cal":"185.75","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"새송이버섯야채볶음 (5)(6)(16)","brst_cal":"90.67","lunc":"단무지무침","lunc_cal":"12.6","dinr":"떡볶이 (5)(6)","dinr_cal":"256.32","adspcfd":"포도 주스(180㎖/캔)","adspcfd_cal":"80","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"순두부계란찜 (1)(5)(9)","dinr_cal":"98.31","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"564.12","lunc":"","lunc_cal":"1,353.76","dinr":"","dinr_cal":"913.77","adspcfd":"","adspcfd_cal":"298","sum_cal":"3,129.65"}
+,{"dates":"20200429","brst":"밥","brst_cal":"363","lunc":"고추참치덮밥 (6)","lunc_cal":"595.64","dinr":"찰보리밥","dinr_cal":"385.12","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"콩나물무채국 (5)","brst_cal":"21.7","lunc":"야채튀김 (1)(6)(12)","lunc_cal":"382.17","dinr":"감자양파찌개 (5)(6)(16)","dinr_cal":"89.9","adspcfd":"유산균 발효 음료 (2)","adspcfd_cal":"56","sum_cal":""}
+,{"dates":"","brst":"쇠고기장조림","brst_cal":"124.49","lunc":"닭매운찜(콩나물) (5)(6)(15)","lunc_cal":"285.32","dinr":"삼겹살구이 (10)","dinr_cal":"1,054.06","adspcfd":"컵과일","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"오이고추장무침 (5)(6)","brst_cal":"51.66","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"양배추쌈 (5)(6)","dinr_cal":"76.88","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"570.6","lunc":"","lunc_cal":"1,295.47","dinr":"","dinr_cal":"1,615.71","adspcfd":"","adspcfd_cal":"178","sum_cal":"3,659.78"}
+,{"dates":"20200430","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"짬뽕찌개 (6)(17)","brst_cal":"87.25","lunc":"꼬리곰탕1형 (16)","lunc_cal":"573.44","dinr":"감자된장국 (5)(6)","dinr_cal":"69.72","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"햄감자볶음 (10)","brst_cal":"124.92","lunc":"시금치무침 (5)(6)","lunc_cal":"30.15","dinr":"돼지고기고추장볶음 (5)(6)(10)","dinr_cal":"500.63","adspcfd":"바나나","adspcfd_cal":"67.2","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"낙지젓","lunc_cal":"10.74","dinr":"무생채","dinr_cal":"25.49","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"615.3","lunc":"","lunc_cal":"1,009.67","dinr":"","dinr_cal":"968.59","adspcfd":"","adspcfd_cal":"285.2","sum_cal":"2,878.76"}
+,{"dates":"알레르기 정보","brst":"(1)-난류
+(2)-우유
+(3)-메밀
+(4)-땅콩
+(5)-대두
+(6)-밀
+(7)-고등어
+(8)-게
+(9)-새우
+((10))-돼지고기
+((11))-복숭아
+((12))-토마토
+((13))-아황산염
+((14))-호두
+((15))-닭고기
+((16))-쇠고기
+((17))-오징어
+((18))-조개류(굴전복홍합포함)","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"10.88","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"10.88","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"560.83","lunc":"","lunc_cal":"1,293.21","dinr":"","dinr_cal":"936.49","adspcfd":"","adspcfd_cal":"122","sum_cal":"2,912.53"}
+,{"dates":"20200331","brst":"밥","brst_cal":"363","lunc":"생우동 (5)(6)","lunc_cal":"400.63","dinr":"찹쌀밥","dinr_cal":"362.74","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치찌개 (6)(10)","brst_cal":"114.48","lunc":"오징어튀김 (1)(17)","lunc_cal":"426.2","dinr":"감자된장국 (5)(6)","dinr_cal":"70.13","adspcfd":"사과(후지, 상품)","adspcfd_cal":"53.29","sum_cal":""}
+,{"dates":"","brst":"비엔나소시지케찹볶음 (6)(10)(12)","brst_cal":"265.7","lunc":"과일샐러드C505:과일샐러드대 (1)","lunc_cal":"101.79","dinr":"닭매운찜(콩나물) (5)(6)(15)","dinr_cal":"286.26","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"두부양념장 (5)(6)","brst_cal":"87.53","lunc":"깍두기(임가공)","lunc_cal":"32.23","dinr":"고등어순살조림 (5)(6)(7)","dinr_cal":"148.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.23","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.23","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"862.94","lunc":"","lunc_cal":"960.85","dinr":"","dinr_cal":"900.13","adspcfd":"","adspcfd_cal":"175.29","sum_cal":"2,899.21"}
+,{"dates":"알레르기 정보","brst":"(1)-난류
+(2)-우유
+(3)-메밀
+(4)-땅콩
+(5)-대두
+(6)-밀
+(7)-고등어
+(8)-게
+(9)-새우
+((10))-돼지고기
+((11))-복숭아
+((12))-토마토
+((13))-아황산염
+((14))-호두
+((15))-닭고기
+((16))-쇠고기
+((17))-오징어
+((18))-조개류(굴전복홍합포함)","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"20200501","brst":"밥","brst_cal":"363","lunc":"잡채밥 (5)(6)(10)","lunc_cal":"629.23","dinr":"잡곡밥","dinr_cal":"363.74","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"콩나물무채국 (5)","brst_cal":"27.88","lunc":"계란국 (1)(5)","lunc_cal":"93.23","dinr":"두부고추장찌개 (5)(6)(16)","dinr_cal":"93.6","adspcfd":"사과(후지, 상품)","adspcfd_cal":"53.29","sum_cal":""}
+,{"dates":"","brst":"햄감자볶음 (10)","brst_cal":"122.42","lunc":"패주볶음 (17)(18)","lunc_cal":"97.81","dinr":"돈가스 (6)(10)","dinr_cal":"562.14","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"김자반","brst_cal":"43","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"감자샐러드 (1)","dinr_cal":"114.68","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"583.07","lunc":"","lunc_cal":"852.63","dinr":"","dinr_cal":"1,160.93","adspcfd":"","adspcfd_cal":"175.29","sum_cal":"2,771.92"}
+,{"dates":"20200502","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"시금치된장국 (5)(6)","brst_cal":"41.71","lunc":"조개살미역국 (5)","lunc_cal":"19.35","dinr":"건새우아욱된장국 (5)(6)","dinr_cal":"36.25","adspcfd":"유산균 발효 음료 (2)","adspcfd_cal":"56","sum_cal":""}
+,{"dates":"","brst":"햄게맛살볶음 (5)(6)(10)","brst_cal":"141.44","lunc":"닭고기감자조림 (5)(6)(15)","lunc_cal":"230.45","dinr":"오리불고기 (5)(6)","dinr_cal":"314.86","adspcfd":"생수(500ML,부식)","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"무나물","lunc_cal":"64.24","dinr":"깻잎찜 (5)(6)","dinr_cal":"45.92","adspcfd":"건빵(참깨맛)","adspcfd_cal":"249","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"깍두기(임가공)","dinr_cal":"32.36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"583.76","lunc":"","lunc_cal":"729.22","dinr":"","dinr_cal":"792.39","adspcfd":"","adspcfd_cal":"427","sum_cal":"2,532.37"}
+,{"dates":"20200503","brst":"밥","brst_cal":"363","lunc":"볶음밥","lunc_cal":"474.31","dinr":"검은콩밥","dinr_cal":"391.91","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"비엔나소시지찌개 (5)(6)(10)","brst_cal":"171","lunc":"쇠고기감자조림 (5)(6)(16)","lunc_cal":"103.78","dinr":"해물찌개 (5)(6)(9)(17)(18)","dinr_cal":"98.15","adspcfd":"비타민음료","adspcfd_cal":"90","sum_cal":""}
+,{"dates":"","brst":"새송이버섯야채볶음 (5)(6)(16)","brst_cal":"94.82","lunc":"두부양념장 (5)(6)","lunc_cal":"98.04","dinr":"한우불고기 (5)(6)(16)","dinr_cal":"141.53","adspcfd":"망고 주스(180㎖/캔)","adspcfd_cal":"90","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"깍두기(임가공)","lunc_cal":"32.36","dinr":"양배추쌈 (5)(6)","dinr_cal":"63.38","adspcfd":"라면(즉석 컵) (6)","adspcfd_cal":"365","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"26.77","lunc":"","lunc_cal":"","dinr":"파김치","dinr_cal":"23.6","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"660.84","lunc":"","lunc_cal":"708.49","dinr":"","dinr_cal":"718.57","adspcfd":"","adspcfd_cal":"667","sum_cal":"2,754.90"}
+,{"dates":"(예시데이터_업로드시삭제)YYYYMM","brst":"(예시데이터_업로드시삭제)TEXT","brst_cal":"","lunc":"(예시데이터_업로드시삭제)TEXT","lunc_cal":"","dinr":"(예시데이터_업로드시삭제)TEXT","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"20200401","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"현미밥","dinr_cal":"388.41","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개살미역국 (5)","brst_cal":"20.28","lunc":"감자양파찌개 (5)(6)(16)","lunc_cal":"89.9","dinr":"쇠고기호박찌개 (6)(16)","dinr_cal":"61.2","adspcfd":"사과(후지, 상품)","adspcfd_cal":"53.29","sum_cal":""}
+,{"dates":"","brst":"새송이버섯야채볶음 (5)(6)(16)","brst_cal":"90.67","lunc":"돼지불고기 (5)(6)(10)","lunc_cal":"515.77","dinr":"굴튀김 (5)(6)","dinr_cal":"324.83","adspcfd":"오렌지 주스(180㎖/캔)","adspcfd_cal":"84","sum_cal":""}
+,{"dates":"","brst":"콩나물매운무침 (5)","brst_cal":"41.56","lunc":"배추된장무침 (5)(6)","lunc_cal":"23.76","dinr":"계란찜 (1)(9)","dinr_cal":"83.25","adspcfd":"건빵(개선품) (1)(2)(3)","adspcfd_cal":"249","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"525.26","lunc":"","lunc_cal":"1,024.77","dinr":"","dinr_cal":"867.44","adspcfd":"","adspcfd_cal":"508.29","sum_cal":"2,925.76"}
+,{"dates":"20200402","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"잡곡밥","dinr_cal":"363.64","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"시금치된장국 (5)(6)","brst_cal":"44.02","lunc":"두부고추장찌개 (5)(6)(16)","lunc_cal":"93.78","dinr":"쇠고기미역국 (5)(16)","dinr_cal":"40.39","adspcfd":"딸기,신선형(딸기(34월))","adspcfd_cal":"32.4","sum_cal":""}
+,{"dates":"","brst":"햄게맛살볶음 (5)(6)(10)","brst_cal":"147.88","lunc":"닭강정 (1)(6)(15)","lunc_cal":"713.78","dinr":"고추잡채 (5)(6)(10)","dinr_cal":"376.52","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"감자조림 (5)(6)","brst_cal":"84.16","lunc":"무나물","lunc_cal":"47.65","dinr":"고등어김치조림 (5)(6)(7)","dinr_cal":"180.11","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"648.81","lunc":"","lunc_cal":"1,227.96","dinr":"","dinr_cal":"970.41","adspcfd":"","adspcfd_cal":"154.4","sum_cal":"3,001.58"}
+,{"dates":"20200403","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"어묵김치국 (5)(6)","brst_cal":"75.45","lunc":"버섯된장찌개 (5)(6)","lunc_cal":"56.36","dinr":"쇠고기무국 (5)(16)","dinr_cal":"41.33","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"돼지고기콩나물볶음 (5)(6)(10)","brst_cal":"340.23","lunc":"한우불고기 (5)(6)(16)","lunc_cal":"127.43","dinr":"생선가스 (1)(6)","dinr_cal":"572.33","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"순두부양념장 (5)(6)","brst_cal":"81.17","lunc":"도라지오이무침 (6)(17)","lunc_cal":"70.18","dinr":"두부양념장 (5)(6)","dinr_cal":"98.04","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"파김치","brst_cal":"23.6","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"883.45","lunc":"","lunc_cal":"652.13","dinr":"","dinr_cal":"1,084.45","adspcfd":"","adspcfd_cal":"122","sum_cal":"2,742.03"}
+,{"dates":"20200404","brst":"불고기버거 (1)(2)(6)(10)(12)","brst_cal":"986.52","lunc":"잡곡밥","lunc_cal":"363.64","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"순두부찌개 (1)(5)(6)(10)","lunc_cal":"187.98","dinr":"감자된장국 (5)(6)","dinr_cal":"69.72","adspcfd":"가공우유(초코) (2)","adspcfd_cal":"126","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"궁중떡볶이 (5)(6)(16)","lunc_cal":"241.94","dinr":"새송이버섯야채볶음 (5)(6)(16)","dinr_cal":"90.67","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"오징어볶음 (17)","lunc_cal":"129.37","dinr":"김자반","dinr_cal":"43","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"986.52","lunc":"","lunc_cal":"955.27","dinr":"","dinr_cal":"576.14","adspcfd":"","adspcfd_cal":"248","sum_cal":"2,765.93"}
+,{"dates":"20200405","brst":"밥","brst_cal":"363","lunc":"잡채밥 (5)(6)(10)","lunc_cal":"630.95","dinr":"찰보리밥","dinr_cal":"385.12","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"콩나물국 (5)","brst_cal":"24.83","lunc":"조개국 (1)","lunc_cal":"93.11","dinr":"호박된장찌개 (5)(6)","dinr_cal":"51.7","adspcfd":"배 주스(238㎖/캔)","adspcfd_cal":"116","sum_cal":""}
+,{"dates":"","brst":"쇠고기감자조림 (5)(6)(16)","brst_cal":"97.41","lunc":"쭈꾸미볶음 (5)(6)","lunc_cal":"129.92","dinr":"돼지불고기 (5)(6)(10)","dinr_cal":"515.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"시금치무침 (5)(6)","brst_cal":"30.15","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"양배추쌈 (5)(6)","dinr_cal":"76.88","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.34","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"525.14","lunc":"","lunc_cal":"863.73","dinr":"","dinr_cal":"1,061.81","adspcfd":"","adspcfd_cal":"238","sum_cal":"2,688.68"}
+,{"dates":"20200406","brst":"떡만두국 (1)(5)(6)(10)(16)","brst_cal":"593.11","lunc":"낙지덮밥 (5)(6)","lunc_cal":"516.44","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"애호박나물 (9)","brst_cal":"53.23","lunc":"꽈리고추멸치볶음 (5)(6)","lunc_cal":"120.7","dinr":"시금치된장국 (5)(6)","dinr_cal":"44.02","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"콩나물무침 (5)","brst_cal":"36","lunc":"연근튀김 (1)(5)(6)","lunc_cal":"346.92","dinr":"비엔나소시지케찹볶음 (6)(10)(12)","dinr_cal":"332.61","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"계란장조림 (1)(5)(6)","dinr_cal":"168.7","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"692.09","lunc":"","lunc_cal":"993.81","dinr":"","dinr_cal":"918.08","adspcfd":"","adspcfd_cal":"122","sum_cal":"2,725.98"}
+,{"dates":"20200407","brst":"현미밥","brst_cal":"388.41","lunc":"흑미밥","lunc_cal":"389.25","dinr":"마파두부덮밥 (5)(6)(10)","dinr_cal":"662.58","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"40.39","lunc":"꼬리곰탕1형 (16)","lunc_cal":"573.44","dinr":"해물찌개 (5)(6)(9)(17)(18)","dinr_cal":"95.84","adspcfd":"딸기,신선형(딸기(34월))","adspcfd_cal":"32.4","sum_cal":""}
+,{"dates":"","brst":"생선묵볶음 (5)(6)","brst_cal":"117.93","lunc":"파전 (5)(6)(9)(17)","lunc_cal":"114.42","dinr":"오징어튀김 (1)(6)(17)","dinr_cal":"416.24","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"감자채볶음","brst_cal":"70.27","lunc":"오이양파장아찌 (5)(6)","lunc_cal":"35.93","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"626.75","lunc":"","lunc_cal":"1,122.79","dinr":"","dinr_cal":"1,184.41","adspcfd":"","adspcfd_cal":"154.4","sum_cal":"3,088.35"}
+,{"dates":"20200408","brst":"검은콩밥","brst_cal":"391.91","lunc":"자장밥 (5)(6)(10)","lunc_cal":"696.3","dinr":"오징어야채비빔밥 (5)(6)(17)","dinr_cal":"516.62","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개국 (1)","brst_cal":"93.11","lunc":"콩나물국 (5)","lunc_cal":"24.83","dinr":"비엔나소시지찌개 (5)(6)(10)","dinr_cal":"169.38","adspcfd":"이온음료","adspcfd_cal":"58.8","sum_cal":""}
+,{"dates":"","brst":"표고버섯돼지고기볶음 (5)(6)(10)","brst_cal":"369.74","lunc":"치킨너겟 (1)(5)(6)(10)(12)","lunc_cal":"559.82","dinr":"계란후라이 (1)","dinr_cal":"125.64","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"869.76","lunc":"","lunc_cal":"1,313.29","dinr":"","dinr_cal":"821.39","adspcfd":"","adspcfd_cal":"180.8","sum_cal":"3,185.24"}
+,{"dates":"20200409","brst":"밥","brst_cal":"363","lunc":"햄치즈버거 (1)(2)(6)(10)(12)","lunc_cal":"1,338.03","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치찌개 (6)(10)","brst_cal":"125.69","lunc":"","lunc_cal":"","dinr":"쇠고기육개장 (1)(5)(6)(16)","dinr_cal":"96.28","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"","lunc_cal":"","dinr":"만두튀김 (1)(5)(6)(10)","dinr_cal":"676.12","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"오징어채무침 (6)(17)","brst_cal":"92.18","lunc":"","lunc_cal":"","dinr":"닭간장소스찜 (5)(6)(15)","dinr_cal":"274.43","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.34","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"618.46","lunc":"","lunc_cal":"1,338.03","dinr":"","dinr_cal":"1,444.71","adspcfd":"","adspcfd_cal":"244","sum_cal":"3,645.20"}
+,{"dates":"20200410","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"잡곡밥","dinr_cal":"363.64","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"조개살미역국 (5)","brst_cal":"20.28","lunc":"생선살매운탕 (5)(6)(9)","lunc_cal":"95.78","dinr":"팽이버섯국 (5)(6)","dinr_cal":"39.46","adspcfd":"딸기,신선형(딸기(34월))","adspcfd_cal":"32.4","sum_cal":""}
+,{"dates":"","brst":"버섯호박볶음 (5)(6)(9)","brst_cal":"58.15","lunc":"돼지갈비김치찜 (5)(6)(10)","lunc_cal":"364.11","dinr":"돈가스 (6)(10)","dinr_cal":"562.14","adspcfd":"오렌지 주스(180㎖/캔)","adspcfd_cal":"84","sum_cal":""}
+,{"dates":"","brst":"두부양념장 (5)(6)","brst_cal":"98.04","lunc":"시금치무침 (5)(6)","lunc_cal":"30.15","dinr":"감자샐러드 (1)","dinr_cal":"115.93","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"549.22","lunc":"","lunc_cal":"885.38","dinr":"","dinr_cal":"1,090.92","adspcfd":"","adspcfd_cal":"238.4","sum_cal":"2,763.92"}
+,{"dates":"20200411","brst":"밥","brst_cal":"363","lunc":"잡채밥 (5)(6)(10)","lunc_cal":"630.95","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"배추된장국 (5)(6)","brst_cal":"33.04","lunc":"닭고기육개장 (1)(5)(15)","lunc_cal":"218.67","dinr":"생선묵국 (5)(6)","dinr_cal":"58.2","adspcfd":"망고 주스(180㎖/캔)","adspcfd_cal":"90","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"삼치순살조림 (5)(6)","lunc_cal":"54.74","dinr":"돼지고기김치볶음 (10)","dinr_cal":"207.33","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"쇠고기감자조림 (5)(6)(16)","brst_cal":"97.41","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"오이고추장무침 (5)(6)","dinr_cal":"51.66","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"","lunc_cal":"","dinr":"깍두기(임가공)","dinr_cal":"32.34","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"508.45","lunc":"","lunc_cal":"914.11","dinr":"","dinr_cal":"737.66","adspcfd":"","adspcfd_cal":"212","sum_cal":"2,372.22"}
+,{"dates":"20200412","brst":"밥","brst_cal":"363","lunc":"현미밥","lunc_cal":"388.41","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"두부김치국 (5)","brst_cal":"48.68","lunc":"버섯된장찌개 (5)(6)","lunc_cal":"56.36","dinr":"쇠고기무국 (5)(16)","dinr_cal":"41.33","adspcfd":"포도 주스(180㎖/캔)","adspcfd_cal":"80","sum_cal":""}
+,{"dates":"","brst":"매운소시지떡볶음 (5)(6)(10)(12)","brst_cal":"342.88","lunc":"돼지고기고추장볶음 (5)(6)(10)","lunc_cal":"500.63","dinr":"오삼불고기 (5)(6)(10)(17)","dinr_cal":"334.49","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"무나물","brst_cal":"47.65","lunc":"감자조림 (5)(6)","lunc_cal":"84.16","dinr":"콩나물무침 (5)","dinr_cal":"36","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"811.96","lunc":"","lunc_cal":"1,061.90","dinr":"","dinr_cal":"784.57","adspcfd":"","adspcfd_cal":"202","sum_cal":"2,860.43"}
+,{"dates":"20200413","brst":"밥","brst_cal":"363","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"김치볶음밥 (5)(6)(10)","dinr_cal":"591.55","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"두부고추장찌개 (5)(6)(16)","brst_cal":"93.78","lunc":"명태매운탕 (5)(6)","lunc_cal":"86.82","dinr":"호박된장찌개 (5)(6)","dinr_cal":"51.7","adspcfd":"라면(즉석 컵) (6)","adspcfd_cal":"365","sum_cal":""}
+,{"dates":"","brst":"쇠고기버섯볶음 (5)(6)(16)","brst_cal":"84.61","lunc":"닭갈비 (5)(6)(15)","lunc_cal":"269.13","dinr":"야채튀김 (1)(6)(12)","dinr_cal":"382.17","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"멸치볶음","brst_cal":"93.93","lunc":"애호박나물 (9)","lunc_cal":"53.23","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"645.07","lunc":"","lunc_cal":"807.06","dinr":"","dinr_cal":"1,035.17","adspcfd":"","adspcfd_cal":"487","sum_cal":"2,974.30"}
+,{"dates":"20200414","brst":"밥","brst_cal":"363","lunc":"스파게티 (6)(12)","lunc_cal":"745.6","dinr":"현미밥","dinr_cal":"388.41","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"북어채국 (1)(5)","brst_cal":"71.7","lunc":"치킨너겟 (1)(5)(6)(10)(12)","lunc_cal":"559.82","dinr":"팽이버섯국 (5)(6)","dinr_cal":"39.46","adspcfd":"탄산음료","adspcfd_cal":"117.5","sum_cal":""}
+,{"dates":"","brst":"두부김치 (5)(6)(10)","brst_cal":"276.65","lunc":"단무지무침","lunc_cal":"12.6","dinr":"김자반","dinr_cal":"43","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"백김치","lunc_cal":"16.8","dinr":"닭고기감자조림 (5)(6)(15)","dinr_cal":"229.13","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.34","lunc":"","lunc_cal":"","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"748.94","lunc":"","lunc_cal":"1,334.82","dinr":"","dinr_cal":"709.75","adspcfd":"","adspcfd_cal":"239.5","sum_cal":"3,033.01"}
+,{"dates":"20200415","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"제육덮밥 (5)(6)(10)(17)","dinr_cal":"668.76","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치찌개 (6)(10)","brst_cal":"125.69","lunc":"꼬리곰탕1형 (16)","lunc_cal":"573.44","dinr":"계란장조림 (1)(5)(6)","dinr_cal":"168.7","adspcfd":"유산균 발효 음료 (2)","adspcfd_cal":"56","sum_cal":""}
+,{"dates":"","brst":"햄감자볶음 (10)","brst_cal":"124.92","lunc":"오징어젓무침 (17)","lunc_cal":"47.96","dinr":"오이양파장아찌 (5)(6)","dinr_cal":"35.93","adspcfd":"아이스샌드","adspcfd_cal":"252","sum_cal":""}
+,{"dates":"","brst":"무생채","brst_cal":"25.49","lunc":"시금치무침 (5)(6)","lunc_cal":"30.15","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"감귤 주스(340㎖/ 페트)","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"673.98","lunc":"","lunc_cal":"1,046.89","dinr":"","dinr_cal":"883.14","adspcfd":"","adspcfd_cal":"610","sum_cal":"3,214.01"}
+,{"dates":"20200416","brst":"흑미밥","brst_cal":"389.25","lunc":"밥","lunc_cal":"363","dinr":"새우버거 (1)(2)(6)(9)(12)","dinr_cal":"1,161.56","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"감자된장국 (5)(6)","brst_cal":"69.72","lunc":"조개국 (1)","lunc_cal":"93.11","dinr":"","dinr_cal":"","adspcfd":"아이스크림, 떠먹는형","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"쇠고기버섯볶음 (5)(6)(16)","brst_cal":"84.61","lunc":"돼지고기김치볶음 (10)","lunc_cal":"207.33","dinr":"","dinr_cal":"","adspcfd":"가공우유(딸기) (2)","adspcfd_cal":"116","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"갈치순살튀김 (6)","lunc_cal":"327.89","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"558.58","lunc":"","lunc_cal":"1,023.67","dinr":"","dinr_cal":"1,161.56","adspcfd":"","adspcfd_cal":"540","sum_cal":"3,283.81"}
+,{"dates":"20200417","brst":"밥","brst_cal":"363","lunc":"잡곡밥","lunc_cal":"363.64","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"순두부해물찌개 (1)(5)(6)(9)(17)(18)","brst_cal":"141.19","lunc":"생선묵국 (5)(6)","lunc_cal":"58.2","dinr":"짬뽕찌개 (6)(17)","dinr_cal":"87.25","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"감자채볶음","brst_cal":"70.27","lunc":"탕수육(완제품용) (5)(6)(10)(12)","lunc_cal":"509.69","dinr":"북어채볶음 (5)(6)","dinr_cal":"98.48","adspcfd":"워터젤리","adspcfd_cal":"176.4","sum_cal":""}
+,{"dates":"","brst":"오이고추장무침 (5)(6)","brst_cal":"51.66","lunc":"배추된장무침 (5)(6)","lunc_cal":"23.76","dinr":"쇠고기감자조림 (5)(6)(16)","dinr_cal":"97.41","adspcfd":"사과 주스(200㎖/팩)","adspcfd_cal":"93","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"깍두기(임가공)","lunc_cal":"32.34","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"라면(즉석 컵) (6)","adspcfd_cal":"365","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"635.87","lunc":"","lunc_cal":"987.63","dinr":"","dinr_cal":"655.89","adspcfd":"","adspcfd_cal":"852.4","sum_cal":"3,131.79"}
+,{"dates":"20200418","brst":"핫도그빵 (1)(2)(6)(10)(12)","brst_cal":"1,131.76","lunc":"찹쌀밥","lunc_cal":"388.13","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"쇠고기미역국 (5)(16)","lunc_cal":"40.39","dinr":"햄김치찌개 (5)(6)(10)","dinr_cal":"127.07","adspcfd":"초콜릿(3사교)","adspcfd_cal":"286","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"생선묵꽈리고추볶음 (5)(6)","lunc_cal":"106.88","dinr":"쇠고기불고기 (5)(6)(16)","dinr_cal":"157.12","adspcfd":"가공우유(바나나) (2)","adspcfd_cal":"167","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"두부조림 (5)(6)","lunc_cal":"132.76","dinr":"시금치무침 (5)(6)","dinr_cal":"30.15","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"깍두기(임가공)","dinr_cal":"32.34","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"1,131.76","lunc":"","lunc_cal":"677.91","dinr":"","dinr_cal":"709.68","adspcfd":"","adspcfd_cal":"575","sum_cal":"3,094.35"}
+,{"dates":"20200419","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"흑미밥","dinr_cal":"389.25","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"41.33","lunc":"소시지찌개 (5)(6)(10)","lunc_cal":"185.75","dinr":"오리들깨탕 (5)(6)","dinr_cal":"266.33","adspcfd":"유산균 발효 음료 (2)","adspcfd_cal":"56","sum_cal":""}
+,{"dates":"","brst":"돼지고기콩나물볶음 (5)(6)(10)","brst_cal":"340.23","lunc":"닭갈비 (5)(6)(15)","lunc_cal":"269.13","dinr":"떡볶이 (5)(6)","dinr_cal":"256.32","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"오이양파장아찌 (5)(6)","lunc_cal":"35.93","dinr":"우엉조림 (5)(6)(16)","dinr_cal":"102.96","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(3~4월)","brst_cal":"9.75","lunc":"배추김치(3~4월)","lunc_cal":"9.75","dinr":"배추김치(3~4월)","dinr_cal":"9.75","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"돼지고기콩나물볶음 (5)(6)(10)","brst_cal":"399.17","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"양념통닭 (1)(6)(15)","dinr_cal":"806.97","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"1,002.12","lunc":"","lunc_cal":"896.42","dinr":"","dinr_cal":"1,388.16","adspcfd":"","adspcfd_cal":"122","sum_cal":"3,408.70"}
+,{"dates":"20200627","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"흑미밥","dinr_cal":"389.25","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"244","sum_cal":""}
+,{"dates":"","brst":"쇠고기무국 (5)(16)","brst_cal":"60.38","lunc":"배추된장국 (5)(6)","lunc_cal":"36.09","dinr":"콩나물두부국 (5)","dinr_cal":"43.14","adspcfd":"아이스 망고바","adspcfd_cal":"0","sum_cal":""}
+,{"dates":"","brst":"계란장조림 (1)(5)(6)","brst_cal":"169.54","lunc":"한우불고기 (5)(6)(16)","lunc_cal":"145.46","dinr":"닭간장소스찜 (5)(6)(15)","dinr_cal":"281.18","adspcfd":"건빵(야채맛)","adspcfd_cal":"249","sum_cal":""}
+,{"dates":"","brst":"오이고추장무침 (5)(6)","brst_cal":"47.79","lunc":"양배추쌈 (5)(6)","lunc_cal":"66.88","dinr":"무생채","dinr_cal":"38.54","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"664.96","lunc":"","lunc_cal":"629.88","dinr":"","dinr_cal":"776.36","adspcfd":"","adspcfd_cal":"493","sum_cal":"2,564.20"}
+,{"dates":"20200628","brst":"찹쌀밥","brst_cal":"388.13","lunc":"밥","lunc_cal":"363","dinr":"밥","dinr_cal":"363","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"계란국 (1)(5)","brst_cal":"93.07","lunc":"쇠고기미역국 (5)(16)","lunc_cal":"58.63","dinr":"해물찌개 (5)(6)(9)(17)(18)","dinr_cal":"101.01","adspcfd":"아이스크림, 떠먹는형","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"생선묵고추장볶음 (5)(6)","lunc_cal":"131.08","dinr":"애호박나물 (9)","dinr_cal":"52.69","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"오징어채무침 (6)(17)","brst_cal":"91.26","lunc":"돼지고기김치볶음 (10)","lunc_cal":"207.33","dinr":"새송이버섯야채볶음 (5)(6)(16)","dinr_cal":"101.31","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"총각김치","lunc_cal":"18.45","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"601.96","lunc":"","lunc_cal":"778.49","dinr":"","dinr_cal":"642.26","adspcfd":"","adspcfd_cal":"302","sum_cal":"2,324.71"}
+,{"dates":"20200629","brst":"밥","brst_cal":"363","lunc":"밥","lunc_cal":"363","dinr":"흑미밥","dinr_cal":"389.25","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"두부고추장찌개 (5)(6)(16)","brst_cal":"90.69","lunc":"콩나물국 (5)","lunc_cal":"25.28","dinr":"팽이버섯국 (5)(6)","dinr_cal":"46.12","adspcfd":"농후 발효유 (2)","adspcfd_cal":"96","sum_cal":""}
+,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"97.27","lunc":"닭고기튀김 (1)(6)(15)","lunc_cal":"736.49","dinr":"돼지고기고추장볶음 (5)(6)(10)","dinr_cal":"574.47","adspcfd":"블루베리","adspcfd_cal":"15.3","sum_cal":""}
+,{"dates":"","brst":"오이양파장아찌 (5)(6)","brst_cal":"35.93","lunc":"시금치무침 (5)(6)","lunc_cal":"32.26","dinr":"상추쌈 (5)(6)","dinr_cal":"57.35","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추김치(5~6월)","brst_cal":"24.25","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"총각김치","dinr_cal":"18.45","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"611.14","lunc":"","lunc_cal":"1,181.28","dinr":"","dinr_cal":"1,085.64","adspcfd":"","adspcfd_cal":"233.3","sum_cal":"3,111.36"}
+,{"dates":"20200630","brst":"밥","brst_cal":"363","lunc":"김치볶음밥 (5)(6)(10)","lunc_cal":"562.3","dinr":"잡곡밥","dinr_cal":"363.83","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기미역국 (5)(16)","brst_cal":"58.63","lunc":"생선묵볶음 (5)(6)","lunc_cal":"118.05","dinr":"순두부해물찌개 (1)(5)(6)(17)(18)","dinr_cal":"146.11","adspcfd":"참외,신선형(참외(78월))","adspcfd_cal":"47.5","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"깐풍고등어 (5)(6)","lunc_cal":"419.05","dinr":"오삼불고기 (5)(6)(10)(17)","dinr_cal":"349.5","adspcfd":"포도 주스(180㎖/캔)","adspcfd_cal":"80","sum_cal":""}
+,{"dates":"","brst":"두부양념장 (5)(6)","brst_cal":"96.12","lunc":"배추김치(5~6월)","lunc_cal":"24.25","dinr":"무생채","dinr_cal":"38.54","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"24.25","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"541.45","lunc":"","lunc_cal":"1,123.65","dinr":"","dinr_cal":"922.23","adspcfd":"","adspcfd_cal":"249.5","sum_cal":"2,836.83"}
+,{"dates":"","brst":"","brst_cal":"968.67","lunc":"","lunc_cal":"732.69","dinr":"","dinr_cal":"817.51","adspcfd":"","adspcfd_cal":"550","sum_cal":"3,068.87"}
+,{"dates":"20200531","brst":"밥","brst_cal":"363","lunc":"고추참치덮밥 (6)","lunc_cal":"592.62","dinr":"찹쌀밥","dinr_cal":"388.13","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
+,{"dates":"","brst":"쇠고기호박찌개 (6)(16)","brst_cal":"69.32","lunc":"떡볶이 (5)(6)","lunc_cal":"250.19","dinr":"감자된장국 (5)(6)","dinr_cal":"71.49","adspcfd":"초콜릿(3사교)","adspcfd_cal":"286","sum_cal":""}
+,{"dates":"","brst":"돼지고기김치볶음 (10)","brst_cal":"206.08","lunc":"계란후라이 (1)","lunc_cal":"125.64","dinr":"닭매운찜(콩나물) (5)(6)(15)","dinr_cal":"289.61","adspcfd":"감귤 주스(340㎖/ 페트)","adspcfd_cal":"180","sum_cal":""}
+,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"배추김치(5~6월)","lunc_cal":"26.77","dinr":"시금치무침 (5)(6)","dinr_cal":"30.84","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.36","lunc":"","lunc_cal":"","dinr":"배추김치(5~6월)","dinr_cal":"26.77","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"676.01","lunc":"","lunc_cal":"995.22","dinr":"","dinr_cal":"806.84","adspcfd":"","adspcfd_cal":"588","sum_cal":"3,066.07"}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+]}
