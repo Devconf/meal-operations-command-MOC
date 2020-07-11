@@ -1,3 +1,6 @@
+"""
+menu.json 을 생성
+"""
 import json
 import csv
 import re

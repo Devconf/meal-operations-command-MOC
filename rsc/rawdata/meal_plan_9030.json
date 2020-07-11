@@ -78,7 +78,7 @@
 ,{"dates":"","brst":"생선묵국 (5)(6)","brst_cal":"67.72","lunc":"밥","lunc_cal":"363","dinr":"두부김치국 (5)","dinr_cal":"45.86","adspcfd":"아이스크림 샌드위치 (2)","adspcfd_cal":"252","sum_cal":""}
 ,{"dates":"","brst":"맛김","brst_cal":"5.25","lunc":"삶은계란 (1)","lunc_cal":"70.28","dinr":"돼지고기고추장볶음 (5)(6)(10)","dinr_cal":"303.14","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"배추된장무침 (5)(6)","brst_cal":"35.56","lunc":"닭간장소스찜 (5)(6)(15)","lunc_cal":"175.22","dinr":"무나물","dinr_cal":"51.73","adspcfd":"","adspcfd_cal":"","sum_cal":""}
-,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"과일2 (2)","lunc_cal":"167","dinr":"배추김치(5~6월)","dinr_cal":"27.01","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"총각김치","brst_cal":"18.45","lunc":"과일 (2)","lunc_cal":"167","dinr":"배추김치(5~6월)","dinr_cal":"27.01","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"489.98","lunc":"","lunc_cal":"928.18","dinr":"","dinr_cal":"790.74","adspcfd":"","adspcfd_cal":"374","sum_cal":"2,582.9"}
 ,{"dates":"20200628","brst":"밥","brst_cal":"363","lunc":"쇠고기덮밥 (5)(6)(16)","lunc_cal":"552.78","dinr":"찹쌀밥","dinr_cal":"398.9","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
 ,{"dates":"","brst":"김치버섯찌개 (5)(6)(10)","brst_cal":"90.97","lunc":"계란국 (1)(5)(6)","lunc_cal":"87.73","dinr":"두부된장찌개 (5)(6)","dinr_cal":"97.01","adspcfd":"배 주스(238㎖/캔)","adspcfd_cal":"116","sum_cal":""}
@@ -377,7 +377,7 @@
 ,{"dates":"20200118","brst":"콩나물국밥 (5)(6)(16)","brst_cal":"423.700","lunc":"핫도그빵 (1)(6)(10)(12)","lunc_cal":"856.330","dinr":"찹쌀밥","dinr_cal":"398.900","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122.000","sum_cal":""}
 ,{"dates":"","brst":"버섯야채볶음","brst_cal":"43.930","lunc":"삶은계란 (1)","lunc_cal":"70.680","dinr":"시금치된장국 (5)(6)","dinr_cal":"55.570","adspcfd":"워터젤리","adspcfd_cal":"176.400","sum_cal":""}
 ,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"67.210","lunc":"오곡곡물후레이크","lunc_cal":"153.300","dinr":"쇠고기불고기 (5)(6)(16)","dinr_cal":"144.120","adspcfd":"","adspcfd_cal":"","sum_cal":""}
-,{"dates":"","brst":"김장김치(12~2월)","brst_cal":"30.660","lunc":"과일2 (2)","lunc_cal":"167.000","dinr":"맛김","dinr_cal":"5.250","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"김장김치(12~2월)","brst_cal":"30.660","lunc":"과일 (2)","lunc_cal":"167.000","dinr":"맛김","dinr_cal":"5.250","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"","lunc":"","lunc_cal":"","dinr":"김장김치(12~2월)","dinr_cal":"30.660","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"565.500","lunc":"","lunc_cal":"1247.310","dinr":"","dinr_cal":"634.500","adspcfd":"","adspcfd_cal":"298.400","sum_cal":"2745.710"}
 ,{"dates":"20200119","brst":"밥","brst_cal":"363.000","lunc":"밥","lunc_cal":"363.000","dinr":"밥","dinr_cal":"363.000","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122.000","sum_cal":""}
@@ -778,7 +778,7 @@
 ,{"dates":"20200227","brst":"밥","brst_cal":"363.000","lunc":"수수밥","lunc_cal":"363.740","dinr":"햄치즈버거 (1)(2)(6)(10)(12)","dinr_cal":"1244.580","adspcfd":"과일푸딩","adspcfd_cal":"126.000","sum_cal":""}
 ,{"dates":"","brst":"쇠고기미역국 (5)(6)(16)","brst_cal":"33.890","lunc":"김치찌개 (5)(6)(10)","lunc_cal":"73.440","dinr":"삶은계란 (1)","dinr_cal":"70.680","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122.000","sum_cal":""}
 ,{"dates":"","brst":"비엔나소시지야채볶음 (5)(6)(10)","brst_cal":"242.530","lunc":"탕수육(완제품용) (5)(6)(10)(12)","lunc_cal":"503.150","dinr":"오곡곡물후레이크","dinr_cal":"153.300","adspcfd":"","adspcfd_cal":"","sum_cal":""}
-,{"dates":"","brst":"배추된장무침 (5)(6)","brst_cal":"47.120","lunc":"고등어순살조림 (5)(6)(7)","lunc_cal":"161.000","dinr":"과일2 (2)","dinr_cal":"167.000","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"배추된장무침 (5)(6)","brst_cal":"47.120","lunc":"고등어순살조림 (5)(6)(7)","lunc_cal":"161.000","dinr":"과일 (2)","dinr_cal":"167.000","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"760.130","lunc":"","lunc_cal":"854.940","dinr":"","dinr_cal":"664.240","adspcfd":"","adspcfd_cal":"218.000","sum_cal":"2497.310"}
 ,{"dates":"20200202","brst":"밥","brst_cal":"363.000","lunc":"쇠고기덮밥 (5)(6)(16)","lunc_cal":"535.310","dinr":"밥","dinr_cal":"363.000","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122.000","sum_cal":""}
 ,{"dates":"","brst":"쇠고기육개장 (1)(5)(16)","brst_cal":"56.300","lunc":"감자계란국 (1)(5)(6)","lunc_cal":"58.100","dinr":"김치국 (5)(6)","dinr_cal":"31.300","adspcfd":"오렌지 주스(180㎖/캔)","adspcfd_cal":"84.000","sum_cal":""}
@@ -1065,7 +1065,7 @@
 ,{"dates":"","brst":"","brst_cal":"542.27","lunc":"","lunc_cal":"918.41","dinr":"","dinr_cal":"1,390.66","adspcfd":"","adspcfd_cal":"333.56","sum_cal":"3,184.9"}
 ,{"dates":"20200423","brst":"밥","brst_cal":"363","lunc":"닭고기부추밥 (1)(5)(6)(15)","lunc_cal":"604.29","dinr":"햄치즈버거 (1)(2)(6)(10)(12)","dinr_cal":"1,272.2","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
 ,{"dates":"","brst":"순두부찌개 (1)(5)(10)(18)","brst_cal":"123.9","lunc":"버섯매운탕 (5)(6)(16)","lunc_cal":"70.05","dinr":"삶은계란 (1)","dinr_cal":"70.48","adspcfd":"견과, 혼합식","adspcfd_cal":"136.3","sum_cal":""}
-,{"dates":"","brst":"돼지불고기 (5)(6)(10)","brst_cal":"277.78","lunc":"골뱅이고추장볶음 (5)(6)","lunc_cal":"208.77","dinr":"과일2 (2)","dinr_cal":"167","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"돼지불고기 (5)(6)(10)","brst_cal":"277.78","lunc":"골뱅이고추장볶음 (5)(6)","lunc_cal":"208.77","dinr":"과일 (2)","dinr_cal":"167","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"시금치무침","brst_cal":"33.87","lunc":"파김치","lunc_cal":"23.6","dinr":"오곡곡물후레이크","dinr_cal":"153.3","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.22","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"830.77","lunc":"","lunc_cal":"906.71","dinr":"","dinr_cal":"1,662.98","adspcfd":"","adspcfd_cal":"258.3","sum_cal":"3,658.76"}
@@ -1097,7 +1097,7 @@
 ,{"dates":"","brst":"","brst_cal":"547.370","lunc":"","lunc_cal":"1026.130","dinr":"","dinr_cal":"1372.670","adspcfd":"","adspcfd_cal":"201.950","sum_cal":"3148.120"}
 ,{"dates":"20200326","brst":"밥","brst_cal":"363.000","lunc":"햄치즈버거 (1)(2)(6)(10)(12)","lunc_cal":"1272.200","dinr":"닭고기부추밥 (1)(5)(6)(15)","dinr_cal":"616.120","adspcfd":"과일푸딩","adspcfd_cal":"126.000","sum_cal":""}
 ,{"dates":"","brst":"패주미역국 (5)(18)","brst_cal":"43.220","lunc":"삶은계란 (1)","lunc_cal":"70.480","dinr":"버섯매운탕 (5)(6)(16)","dinr_cal":"71.950","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122.000","sum_cal":""}
-,{"dates":"","brst":"돼지고기고추장볶음 (5)(6)(10)","brst_cal":"332.560","lunc":"과일2 (2)","lunc_cal":"167.000","dinr":"마파감자 (5)(6)(10)","dinr_cal":"186.810","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"돼지고기고추장볶음 (5)(6)(10)","brst_cal":"332.560","lunc":"과일 (2)","lunc_cal":"167.000","dinr":"마파감자 (5)(6)(10)","dinr_cal":"186.810","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"계란찜 (1)(9)","brst_cal":"81.230","lunc":"오곡곡물후레이크","lunc_cal":"153.300","dinr":"갓김치","dinr_cal":"12.800","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.220","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"852.230","lunc":"","lunc_cal":"1662.980","dinr":"","dinr_cal":"887.680","adspcfd":"","adspcfd_cal":"248.000","sum_cal":"3650.890"}
@@ -1359,7 +1359,7 @@
 ,{"dates":"","brst":"","brst_cal":"542.27","lunc":"","lunc_cal":"918.41","dinr":"","dinr_cal":"1,390.66","adspcfd":"","adspcfd_cal":"333.56","sum_cal":"3,184.9"}
 ,{"dates":"20200423","brst":"밥","brst_cal":"363","lunc":"닭고기부추밥 (1)(5)(6)(15)","lunc_cal":"604.29","dinr":"햄치즈버거 (1)(2)(6)(10)(12)","dinr_cal":"1,272.2","adspcfd":"우유(백색우유(200ML,연간)) (2)","adspcfd_cal":"122","sum_cal":""}
 ,{"dates":"","brst":"순두부찌개 (1)(5)(10)(18)","brst_cal":"123.9","lunc":"버섯매운탕 (5)(6)(16)","lunc_cal":"70.05","dinr":"삶은계란 (1)","dinr_cal":"70.48","adspcfd":"견과, 혼합식","adspcfd_cal":"136.3","sum_cal":""}
-,{"dates":"","brst":"돼지불고기 (5)(6)(10)","brst_cal":"277.78","lunc":"골뱅이고추장볶음 (5)(6)","lunc_cal":"208.77","dinr":"과일2 (2)","dinr_cal":"167","adspcfd":"","adspcfd_cal":"","sum_cal":""}
+,{"dates":"","brst":"돼지불고기 (5)(6)(10)","brst_cal":"277.78","lunc":"골뱅이고추장볶음 (5)(6)","lunc_cal":"208.77","dinr":"과일 (2)","dinr_cal":"167","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"시금치무침","brst_cal":"33.87","lunc":"파김치","lunc_cal":"23.6","dinr":"오곡곡물후레이크","dinr_cal":"153.3","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"깍두기(임가공)","brst_cal":"32.22","lunc":"","lunc_cal":"","dinr":"","dinr_cal":"","adspcfd":"","adspcfd_cal":"","sum_cal":""}
 ,{"dates":"","brst":"","brst_cal":"830.77","lunc":"","lunc_cal":"906.71","dinr":"","dinr_cal":"1,662.98","adspcfd":"","adspcfd_cal":"258.3","sum_cal":"3,658.76"}
